@@ -14,68 +14,82 @@
 
 <br/>
 
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
+<h2 align="center">ACHIEVEMENTS</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="230">
-      <samp>🥇</samp><br><b>FIRA U19</b><br><samp>1st Place</samp><br><samp>2024 · International</samp>
+      <b>FIRA U19</b><br>
+      <samp>1st Place</samp><br>
+      <samp>2024 · International</samp>
     </td>
     <td align="center" width="230">
-      <samp>🥇</samp><br><b>EURASIA</b><br><samp>1st Place</samp><br><samp>2024 · Turkey</samp>
+      <b>EURASIA</b><br>
+      <samp>1st Place</samp><br>
+      <samp>2024 · Turkey</samp>
     </td>
     <td align="center" width="230">
-      <samp>🥉</samp><br><b>CANADA</b><br><samp>3rd Place</samp><br><samp>2024 · Canada</samp>
+      <b>CANADA</b><br>
+      <samp>3rd Place</samp><br>
+      <samp>2024 · Canada</samp>
     </td>
     <td align="center" width="230">
-      <samp>🏅</samp><br><b>IRAN OPEN</b><br><samp>5th Place</samp><br><samp>2025 · Iran</samp>
+      <b>IRAN OPEN</b><br>
+      <samp>5th Place</samp><br>
+      <samp>2025 · Iran</samp>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h2 align="center">🎓 EDUCATION</h2>
+<h2 align="center">EDUCATION</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <samp>🎓</samp><br><b>CS50x</b><br><samp>Harvard University</samp><br><samp>Introduction to Computer Science</samp>
+      <b>CS50x</b><br>
+      <samp>Harvard University</samp><br>
+      <samp>Introduction to Computer Science</samp>
     </td>
     <td align="center" width="300">
-      <samp>🎓</samp><br><b>CS50 AI</b><br><samp>Harvard University</samp><br><samp>Artificial Intelligence with Python</samp>
+      <b>CS50 AI</b><br>
+      <samp>Harvard University</samp><br>
+      <samp>Artificial Intelligence with Python</samp>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+<h2 align="center">ABOUT ME</h2>
 
-<pre align="center">
-╔══════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   Back-End Web Developer & AI Engineer                     ║
-║                                                            ║
-║   Specialized in Django, FastAPI, Flask                    ║
-║   Computer Vision with OpenCV, TensorFlow, PyTorch         ║
-║   Database: PostgreSQL, MongoDB, Redis                     ║
-║   DevOps: Docker, Linux, Git, Nginx                        ║
-║   Hardware: Arduino, Tello Drone, Raspberry Pi             ║
-║                                                            ║
-║   Motto: Code. Compete. Conquer.                           ║
-║                                                            ║
-╚══════════════════════════════════════════════════════════════╝
+<pre align="center" style="font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.8;">
+<b>╔══════════════════════════════════════════════════════════════╗</b>
+<b>║</b>                                                              <b>║</b>
+<b>║</b>   <b>Back-End Web Developer</b> & <b>AI Engineer</b>                      <b>║</b>
+<b>║</b>                                                              <b>║</b>
+<b>║</b>   <b>Frameworks</b> : Django  ·  FastAPI  ·  Flask                  <b>║</b>
+<b>║</b>   <b>AI / CV</b>    : OpenCV  ·  TensorFlow  ·  PyTorch             <b>║</b>
+<b>║</b>   <b>Database</b>   : PostgreSQL  ·  MongoDB  ·  Redis               <b>║</b>
+<b>║</b>   <b>DevOps</b>     : Docker  ·  Linux  ·  Git  ·  Nginx              <b>║</b>
+<b>║</b>   <b>Hardware</b>   : Arduino  ·  Tello Drone  ·  Raspberry Pi        <b>║</b>
+<b>║</b>                                                              <b>║</b>
+<b>║</b>   <b>Motto</b> : Code. Compete. Conquer.                            <b>║</b>
+<b>║</b>                                                              <b>║</b>
+<b>╚══════════════════════════════════════════════════════════════╝</b>
 </pre>
 
 <br/>
 
-<h2 align="center">🛠️ TECH STACK</h2>
+<h2 align="center">TECH STACK</h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -123,7 +137,7 @@
 
 <br/>
 
-<h2 align="center">📫 CONTACT</h2>
+<h2 align="center">CONTACT</h2>
 
 <p align="center">
   <a href="mailto:arshiaaa2158@gmail.com">
@@ -137,9 +151,9 @@
 <br/>
 
 <div align="center">
-  <samp><b>⭐ Star my repositories if you find them useful ⭐</b></samp>
+  <samp><b>Star my repositories if you find them useful</b></samp>
   <br/><br/>
-  <samp>© 2026 Arshia Ghotbinejad · All rights reserved.</samp>
+  <samp>2026 Arshia Ghotbinejad · All rights reserved.</samp>
 </div>
 
 <br/>
