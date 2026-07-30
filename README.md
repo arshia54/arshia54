@@ -146,6 +146,25 @@
 <br/>
 
 <h2 align="center">
+  📊 G I T H U B &nbsp;&nbsp; S T A T S
+</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arshia54&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia54&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia54&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arshia54&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<br/>
+
+<h2 align="center">
   📫 C O N T A C T
 </h2>
 
