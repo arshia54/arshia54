@@ -15,28 +15,28 @@
 <br/>
 
 <h2 align="center">
-  <samp>A C H I E V E M E N T S</samp>
+  🏆 A C H I E V E M E N T S
 </h2>
 
 <table align="center">
   <tr>
     <td align="center" width="240">
-      <b>FIRA U19</b><br>
+      🥇<br><b>FIRA U19</b><br>
       <samp>1st Place</samp><br>
       <samp>2024 · International</samp>
     </td>
     <td align="center" width="240">
-      <b>EURASIA</b><br>
+      🥇<br><b>EURASIA</b><br>
       <samp>1st Place</samp><br>
       <samp>2024 · Turkey</samp>
     </td>
     <td align="center" width="240">
-      <b>CANADA</b><br>
+      🥉<br><b>CANADA</b><br>
       <samp>3rd Place</samp><br>
       <samp>2024 · Canada</samp>
     </td>
     <td align="center" width="240">
-      <b>IRAN OPEN</b><br>
+      🏅<br><b>IRAN OPEN</b><br>
       <samp>5th Place</samp><br>
       <samp>2025 · Iran</samp>
     </td>
@@ -46,18 +46,18 @@
 <br/>
 
 <h2 align="center">
-  <samp>E D U C A T I O N</samp>
+  🎓 E D U C A T I O N
 </h2>
 
 <table align="center">
   <tr>
     <td align="center" width="350">
-      <b>CS50x</b><br>
+      <b>🎓 CS50x</b><br>
       <samp>Harvard University</samp><br>
       <samp>Introduction to Computer Science</samp>
     </td>
     <td align="center" width="350">
-      <b>CS50 AI</b><br>
+      <b>🎓 CS50 AI</b><br>
       <samp>Harvard University</samp><br>
       <samp>Artificial Intelligence with Python</samp>
     </td>
@@ -67,7 +67,7 @@
 <br/>
 
 <h2 align="center">
-  <samp>A B O U T &nbsp;&nbsp; M E</samp>
+  👨‍💻 A B O U T &nbsp;&nbsp; M E
 </h2>
 
 <pre align="center">
@@ -89,10 +89,10 @@
 <br/>
 
 <h2 align="center">
-  <samp>T E C H &nbsp;&nbsp; S T A C K</samp>
+  🛠️ T E C H &nbsp;&nbsp; S T A C K
 </h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -101,7 +101,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="center">Back-End Frameworks</h3>
+<h3 align="center">🌐 Back-End Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -109,7 +109,7 @@
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<h3 align="center">AI & Computer Vision</h3>
+<h3 align="center">🤖 AI & Computer Vision</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -119,7 +119,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -127,7 +127,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="center">DevOps & Tools</h3>
+<h3 align="center">⚙️ DevOps & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -136,7 +136,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-<h3 align="center">Hardware & Robotics</h3>
+<h3 align="center">🔧 Hardware & Robotics</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/DJI_Tello-000000?style=for-the-badge&logo=dji&logoColor=white" />
@@ -146,7 +146,7 @@
 <br/>
 
 <h2 align="center">
-  <samp>C O N T A C T</samp>
+  📫 C O N T A C T
 </h2>
 
 <p align="center">
@@ -161,9 +161,9 @@
 <br/>
 
 <div align="center">
-  <samp><b>Star my repositories if you find them useful</b></samp>
+  <samp>⭐ <b>Star my repositories if you find them useful</b> ⭐</samp>
   <br/><br/>
-  <samp>2026 Arshia Ghotbinejad · All rights reserved.</samp>
+  <samp>© 2026 Arshia Ghotbinejad · All rights reserved.</samp>
 </div>
 
 <br/>
