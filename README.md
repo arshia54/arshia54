@@ -1,9 +1,9 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,10,15,25&height=240&section=header&text=ARSHIA%20GHOTBINEJAD&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=35&desc=DayLight_%20|%20Randerfar0&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,10,15,25&height=260&section=header&text=ARSHIA%20GHOTBINEJAD&fontSize=64&fontColor=white&animation=fadeIn&fontAlignY=35&desc=DayLight_%20|%20Randerfar0&descAlignY=58&descSize=20" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Back-End+Web+Developer;AI+%26+Computer+Vision+Engineer;Django+%7C+FastAPI+%7C+Flask;OpenCV+%7C+TensorFlow+%7C+PyTorch;Code.+Compete.+Conquer." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=750&lines=Back-End+Web+Developer;AI+%26+Computer+Vision+Engineer;Django+%7C+FastAPI+%7C+Flask;OpenCV+%7C+TensorFlow+%7C+PyTorch;Code.+Compete.+Conquer." />
 </p>
 
 <p align="center">
@@ -14,26 +14,28 @@
 
 <br/>
 
-<h2 align="center">ACHIEVEMENTS</h2>
+<h2 align="center">
+  <samp>A C H I E V E M E N T S</samp>
+</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="230">
+    <td align="center" width="240">
       <b>FIRA U19</b><br>
       <samp>1st Place</samp><br>
       <samp>2024 · International</samp>
     </td>
-    <td align="center" width="230">
+    <td align="center" width="240">
       <b>EURASIA</b><br>
       <samp>1st Place</samp><br>
       <samp>2024 · Turkey</samp>
     </td>
-    <td align="center" width="230">
+    <td align="center" width="240">
       <b>CANADA</b><br>
       <samp>3rd Place</samp><br>
       <samp>2024 · Canada</samp>
     </td>
-    <td align="center" width="230">
+    <td align="center" width="240">
       <b>IRAN OPEN</b><br>
       <samp>5th Place</samp><br>
       <samp>2025 · Iran</samp>
@@ -43,16 +45,18 @@
 
 <br/>
 
-<h2 align="center">EDUCATION</h2>
+<h2 align="center">
+  <samp>E D U C A T I O N</samp>
+</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="350">
       <b>CS50x</b><br>
       <samp>Harvard University</samp><br>
       <samp>Introduction to Computer Science</samp>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="350">
       <b>CS50 AI</b><br>
       <samp>Harvard University</samp><br>
       <samp>Artificial Intelligence with Python</samp>
@@ -62,27 +66,31 @@
 
 <br/>
 
-<h2 align="center">ABOUT ME</h2>
+<h2 align="center">
+  <samp>A B O U T &nbsp;&nbsp; M E</samp>
+</h2>
 
-<pre align="center" style="font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.8;">
-<b>╔══════════════════════════════════════════════════════════════╗</b>
-<b>║</b>                                                              <b>║</b>
-<b>║</b>   <b>Back-End Web Developer</b> & <b>AI Engineer</b>                      <b>║</b>
-<b>║</b>                                                              <b>║</b>
-<b>║</b>   <b>Frameworks</b> : Django  ·  FastAPI  ·  Flask                  <b>║</b>
-<b>║</b>   <b>AI / CV</b>    : OpenCV  ·  TensorFlow  ·  PyTorch             <b>║</b>
-<b>║</b>   <b>Database</b>   : PostgreSQL  ·  MongoDB  ·  Redis               <b>║</b>
-<b>║</b>   <b>DevOps</b>     : Docker  ·  Linux  ·  Git  ·  Nginx              <b>║</b>
-<b>║</b>   <b>Hardware</b>   : Arduino  ·  Tello Drone  ·  Raspberry Pi        <b>║</b>
-<b>║</b>                                                              <b>║</b>
-<b>║</b>   <b>Motto</b> : Code. Compete. Conquer.                            <b>║</b>
-<b>║</b>                                                              <b>║</b>
-<b>╚══════════════════════════════════════════════════════════════╝</b>
+<pre align="center">
+<b>+--------------------------------------------------------------+</b>
+<b>|</b>                                                              <b>|</b>
+<b>|</b>     <b>Back-End Web Developer</b> & <b>AI Engineer</b>                    <b>|</b>
+<b>|</b>                                                              <b>|</b>
+<b>|</b>     <b>Frameworks</b> : Django  |  FastAPI  |  Flask                 <b>|</b>
+<b>|</b>     <b>AI / CV</b>    : OpenCV  |  TensorFlow  |  PyTorch            <b>|</b>
+<b>|</b>     <b>Database</b>   : PostgreSQL  |  MongoDB  |  Redis              <b>|</b>
+<b>|</b>     <b>DevOps</b>     : Docker  |  Linux  |  Git  |  Nginx             <b>|</b>
+<b>|</b>     <b>Hardware</b>   : Arduino  |  Tello Drone  |  Raspberry Pi       <b>|</b>
+<b>|</b>                                                              <b>|</b>
+<b>|</b>     <b>Motto</b> : Code. Compete. Conquer.                          <b>|</b>
+<b>|</b>                                                              <b>|</b>
+<b>+--------------------------------------------------------------+</b>
 </pre>
 
 <br/>
 
-<h2 align="center">TECH STACK</h2>
+<h2 align="center">
+  <samp>T E C H &nbsp;&nbsp; S T A C K</samp>
+</h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -137,7 +145,9 @@
 
 <br/>
 
-<h2 align="center">CONTACT</h2>
+<h2 align="center">
+  <samp>C O N T A C T</samp>
+</h2>
 
 <p align="center">
   <a href="mailto:arshiaaa2158@gmail.com">
