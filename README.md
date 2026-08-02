@@ -164,7 +164,7 @@
 <p align="center">
   <a href="mailto:arshiaaa2158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="45" /></a>
   <a href="https://github.com/arshia54"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="45" /></a>
-  <a href="https://t.me/arshia_alavi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="45" /></a>
+  <a href="https://t.me/arshia2158"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="45" /></a>
   <a href="https://instagram.com/arshia.gh__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" height="45" /></a>
 </p>
 <br>
