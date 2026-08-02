@@ -88,56 +88,52 @@
 
 <!-- TECH STACK -->
 <h2 align="center">💻 TECH STACK</h2>
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=%3E+Languages;%3E+Frameworks;%3E+AI+%26+CV;%3E+Databases;%3E+DevOps;%3E+Hardware" /></div>
 <br>
-<div align="center">
-  <table><tr>
-    <td align="center" width="120" style="border: 2px solid #3776AB; border-radius: 15px; padding: 15px; background: rgba(55,118,171,0.1); box-shadow: 0 0 15px rgba(55,118,171,0.3);"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=3776AB" /><br><samp style="color:#AAA; font-size: 10px;">Primary</samp></td>
-    <td align="center" width="120" style="border: 2px solid #00599C; border-radius: 15px; padding: 15px; background: rgba(0,89,156,0.1); box-shadow: 0 0 15px rgba(0,89,156,0.3);"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117&color=00599C" /><br><samp style="color:#AAA; font-size: 10px;">Embedded</samp></td>
-    <td align="center" width="120" style="border: 2px solid #00599C; border-radius: 15px; padding: 15px; background: rgba(0,89,156,0.1); box-shadow: 0 0 15px rgba(0,89,156,0.3);"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117&color=00599C" /><br><samp style="color:#AAA; font-size: 10px;">Robotics</samp></td>
-    <td align="center" width="120" style="border: 2px solid #ED8B00; border-radius: 15px; padding: 15px; background: rgba(237,139,0,0.1); box-shadow: 0 0 15px rgba(237,139,0,0.3);"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117&color=ED8B00" /><br><samp style="color:#AAA; font-size: 10px;">OOP</samp></td>
-    <td align="center" width="120" style="border: 2px solid #4479A1; border-radius: 15px; padding: 15px; background: rgba(68,121,161,0.1); box-shadow: 0 0 15px rgba(68,121,161,0.3);"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117&color=4479A1" /><br><samp style="color:#AAA; font-size: 10px;">Database</samp></td>
-  </tr></table>
-</div>
-<br>
-<div align="center">
-  <table><tr>
-    <td align="center" width="140" style="border: 2px solid #092E20; border-radius: 15px; padding: 15px; background: rgba(9,46,32,0.1); box-shadow: 0 0 15px rgba(9,46,32,0.3);"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117&color=092E20" /><br><samp style="color:#00FF00; font-size: 10px;">★★★★★</samp></td>
-    <td align="center" width="140" style="border: 2px solid #009688; border-radius: 15px; padding: 15px; background: rgba(0,150,136,0.1); box-shadow: 0 0 15px rgba(0,150,136,0.3);"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117&color=009688" /><br><samp style="color:#00FF00; font-size: 10px;">★★★★☆</samp></td>
-    <td align="center" width="140" style="border: 2px solid #000000; border-radius: 15px; padding: 15px; background: rgba(0,0,0,0.3); box-shadow: 0 0 15px rgba(255,255,255,0.1);"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117&color=000000" /><br><samp style="color:#00FF00; font-size: 10px;">★★★☆☆</samp></td>
-    <td align="center" width="140" style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 15px; background: rgba(255,107,107,0.1); box-shadow: 0 0 15px rgba(255,107,107,0.3);"><img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117&color=FF6B6B" /><br><samp style="color:#AAA; font-size: 10px;">Architecture</samp></td>
-  </tr></table>
-</div>
-<br>
-<div align="center">
-  <table><tr>
-    <td align="center" width="120" style="border: 2px solid #5C3EE8; border-radius: 15px; padding: 15px; background: rgba(92,62,232,0.1); box-shadow: 0 0 15px rgba(92,62,232,0.3);"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117&color=5C3EE8" /><br><samp style="color:#00FF00; font-size: 10px;">★★★★★</samp></td>
-    <td align="center" width="120" style="border: 2px solid #FF6F00; border-radius: 15px; padding: 15px; background: rgba(255,111,0,0.1); box-shadow: 0 0 15px rgba(255,111,0,0.3);"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117&color=FF6F00" /><br><samp style="color:#00FF00; font-size: 10px;">★★★★☆</samp></td>
-    <td align="center" width="120" style="border: 2px solid #EE4C2C; border-radius: 15px; padding: 15px; background: rgba(238,76,44,0.1); box-shadow: 0 0 15px rgba(238,76,44,0.3);"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117&color=EE4C2C" /><br><samp style="color:#00FF00; font-size: 10px;">★★★☆☆</samp></td>
-    <td align="center" width="120" style="border: 2px solid #00FFFF; border-radius: 15px; padding: 15px; background: rgba(0,255,255,0.1); box-shadow: 0 0 15px rgba(0,255,255,0.3);"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0D1117&color=00FFFF" /><br><samp style="color:#00FF00; font-size: 10px;">★★★★★</samp></td>
-    <td align="center" width="120" style="border: 2px solid #013243; border-radius: 15px; padding: 15px; background: rgba(1,50,67,0.1); box-shadow: 0 0 15px rgba(1,50,67,0.3);"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117&color=013243" /><br><samp style="color:#00FF00; font-size: 10px;">★★★★★</samp></td>
-  </tr></table>
-</div>
-<br>
-<div align="center">
-  <table><tr>
-    <td align="center" width="120" style="border: 2px solid #316192; border-radius: 15px; padding: 15px; background: rgba(49,97,146,0.1); box-shadow: 0 0 15px rgba(49,97,146,0.3);"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117&color=316192" /><br><samp style="color:#AAA; font-size: 10px;">Primary DB</samp></td>
-    <td align="center" width="120" style="border: 2px solid #47A248; border-radius: 15px; padding: 15px; background: rgba(71,162,72,0.1); box-shadow: 0 0 15px rgba(71,162,72,0.3);"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117&color=47A248" /><br><samp style="color:#AAA; font-size: 10px;">NoSQL</samp></td>
-    <td align="center" width="120" style="border: 2px solid #DC382D; border-radius: 15px; padding: 15px; background: rgba(220,56,45,0.1); box-shadow: 0 0 15px rgba(220,56,45,0.3);"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117&color=DC382D" /><br><samp style="color:#AAA; font-size: 10px;">Cache</samp></td>
-    <td align="center" width="120" style="border: 2px solid #2496ED; border-radius: 15px; padding: 15px; background: rgba(36,150,237,0.1); box-shadow: 0 0 15px rgba(36,150,237,0.3);"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117&color=2496ED" /><br><samp style="color:#AAA; font-size: 10px;">Container</samp></td>
-    <td align="center" width="120" style="border: 2px solid #FCC624; border-radius: 15px; padding: 15px; background: rgba(252,198,36,0.1); box-shadow: 0 0 15px rgba(252,198,36,0.3);"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117&color=FCC624" /><br><samp style="color:#AAA; font-size: 10px;">OS</samp></td>
-    <td align="center" width="120" style="border: 2px solid #F05032; border-radius: 15px; padding: 15px; background: rgba(240,80,50,0.1); box-shadow: 0 0 15px rgba(240,80,50,0.3);"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117&color=F05032" /><br><samp style="color:#AAA; font-size: 10px;">Version Control</samp></td>
-  </tr></table>
-</div>
-<br>
-<div align="center">
-  <table><tr>
-    <td align="center" width="130" style="border: 2px solid #00979D; border-radius: 15px; padding: 15px; background: rgba(0,151,157,0.1); box-shadow: 0 0 15px rgba(0,151,157,0.3);"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117&color=00979D" /><br><samp style="color:#AAA; font-size: 10px;">Microcontroller</samp></td>
-    <td align="center" width="130" style="border: 2px solid #000000; border-radius: 15px; padding: 15px; background: rgba(0,0,0,0.3); box-shadow: 0 0 15px rgba(255,255,255,0.1);"><img src="https://img.shields.io/badge/DJI_Tello-000000?style=for-the-badge&logo=dji&logoColor=white&labelColor=0D1117&color=000000" /><br><samp style="color:#AAA; font-size: 10px;">Drone</samp></td>
-    <td align="center" width="130" style="border: 2px solid #C51A4A; border-radius: 15px; padding: 15px; background: rgba(197,26,74,0.1); box-shadow: 0 0 15px rgba(197,26,74,0.3);"><img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=0D1117&color=C51A4A" /><br><samp style="color:#AAA; font-size: 10px;">SBC</samp></td>
-    <td align="center" width="130" style="border: 2px solid #E7352C; border-radius: 15px; padding: 15px; background: rgba(231,53,44,0.1); box-shadow: 0 0 15px rgba(231,53,44,0.3);"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117&color=E7352C" /><br><samp style="color:#AAA; font-size: 10px;">IoT</samp></td>
-  </tr></table>
-</div>
+
+<h3 align="center" style="color:#00FF00;">📝 Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
+</p>
+
+<h3 align="center" style="color:#00FF00;">⚙️ Back-End Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117" />
+</p>
+
+<h3 align="center" style="color:#00FF00;">🤖 AI & Computer Vision</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
+</p>
+
+<h3 align="center" style="color:#00FF00;">🗄️ Databases & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
+</p>
+
+<h3 align="center" style="color:#00FF00;">🔧 Hardware & IoT</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/DJI_Tello-000000?style=for-the-badge&logo=dji&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" />
+</p>
+
 <br>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,15,25&height=3&section=divider" /></div>
 
