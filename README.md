@@ -1,9 +1,31 @@
-﻿<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,10,15,25&height=220&section=header&text=ARSHIA%20GHOTBINEJAD&fontSize=55&fontColor=white&animation=fadeIn&fontAlignY=35&desc=DayLight_%20|%20Randerfar0&descAlignY=58&descSize=16" /> </div>
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=750&lines=Back-End+Web+Developer;AI+%26+Computer+Vision+Engineer;Django+%7C+FastAPI+%7C+Flask;OpenCV+%7C+TensorFlow+%7C+PyTorch;Code.+Compete.+Conquer." /> </div>
+﻿<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,10,15,25&height=220&section=header&text=ARSHIA%20GHOTBINEJAD&fontSize=55&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Σλ%20·%20Code.%20Compete.%20Conquer.&descAlignY=58&descSize=16" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=750&lines=Systems+Architect;Full-Stack+Fortress;AI+%26+Computer+Vision+Engineer;Cyber-Physical+Σngineer;Django+%7C+FastAPI+%7C+Flask;OpenCV+%7C+TensorFlow+%7C+PyTorch;Master+of+the+Stack" /> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=arshia54&color=green&style=for-the-badge&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/arshia54?style=for-the-badge&color=blue&label=FOLLOWERS" /> <img src="https://img.shields.io/github/stars/arshia54?style=for-the-badge&color=yellow&label=STARS" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arshia54&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GITHUB+STATS" height="170em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia54&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=TOP+LANGUAGES" height="170em" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia54&theme=radical&hide_border=true&fire=FF6600&ring=00FF00&currStreakLabel=00FF00" /> </div>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arshia54&theme=radical&no-frame=true&row=1&column=6&margin-w=15" /> </div>
+<pre align="center">
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   █████  ██████  ███████ ██   ██ ██  █████  █████                       ║
+║  ██   ██ ██   ██ ██      ██   ██ ██ ██   ██ ██   ██                      ║
+║  ███████ ██████  ███████ ███████ ██ ███████ ███████                      ║
+║  ██   ██ ██   ██      ██ ██   ██ ██ ██   ██ ██   ██                      ║
+║  ██   ██ ██   ██ ███████ ██   ██ ██ ██   ██ ██   ██                      ║
+║                                                                              ║
+║  ═══════════════════════════════════════════════════════════════════════════  ║
+║                                                                              ║
+║        ARCHITECT OF THE FULL STACK · COMMANDER OF CYBER-PHYSICAL SYSTEMS     ║
+║                                                                              ║
+║  CORE DOMAINS ·  Python  |  C/C++  |  Assembly  |  JavaScript                ║
+║  FRAMEWORKS    ·  Django  |  FastAPI  |  Flask  |  React                     ║
+║  DATABASES     ·  PostgreSQL  |  MongoDB  |  Redis  |  MySQL                 ║
+║  SYSTEMS       ·  Linux  |  Docker  |  Nginx  |  Git                         ║
+║  AI / CV       ·  TensorFlow  |  PyTorch  |  OpenCV                          ║
+║  HARDWARE      ·  Arduino  |  Raspberry Pi  |  Tello Drone                  ║
+║                                                                              ║
+║  THE PATH      ·  1D → 2D → 3D → N-DIMENSIONAL THOUGHT                      ║
+║  THE CREED     ·  EX NIHILO NIHIL FIT · NOTHING COMES FROM NOTHING           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+</pre>
 <h2 align="center">🏆 ACHIEVEMENTS</h2>
 <table align="center" cellpadding="10"> <tr> <td align="center" width="240"> <b>🏅 FIRA U19</b><br> <samp>1st Place</samp><br> <samp style="color:#888;">2024 · International</samp> </td> <td align="center" width="240"> <b>🏅 EURASIA</b><br> <samp>1st Place</samp><br> <samp style="color:#888;">2024 · Turkey</samp> </td> <td align="center" width="240"> <b>🥉 CANADA</b><br> <samp>3rd Place</samp><br> <samp style="color:#888;">2024 · Canada</samp> </td> <td align="center" width="240"> <b>🏅 IRAN OPEN</b><br> <samp>5th Place</samp><br> <samp style="color:#888;">2025 · Iran</samp> </td> </tr> </table>
 <h2 align="center">🎓 EDUCATION</h2>
