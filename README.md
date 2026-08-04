@@ -1,7 +1,7 @@
 <!--
   ════════════════════════════════════════════════════════════════════════════════
    ARSHIA GHOTBINEJAD · DAYLIGHT · RANDERFAR0
-   Full-Stack Architect · AI Engineer · U19 Champion · Harvard Scholar
+   Full-Stack Architect · AI Engineer · U19 Champion
   ════════════════════════════════════════════════════════════════════════════════
 -->
 
@@ -11,19 +11,19 @@
 <!--                              HEADER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1A1A2E,65:16213E,100:D4AF37&height=320&section=header&text=&fontSize=1&animation=fadeIn" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A1628,65:0A2A40,100:00BFFF&height=320&section=header&text=&fontSize=1&animation=fadeIn" width="100%" alt=""/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=56&duration=6000&pause=2500&color=D4AF37&center=true&vCenter=true&width=1100&height=90&lines=ARSHIA+GHOTBINEJAD" alt="Arshia Ghotbinejad"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=56&duration=6000&pause=2500&color=00BFFF&center=true&vCenter=true&width=1100&height=90&lines=ARSHIA+GHOTBINEJAD" alt="Arshia Ghotbinejad"/>
 
 <br>
 
-**`DAYLIGHT`** &nbsp;·&nbsp; **`RANDERFAR0`** &nbsp;·&nbsp; *Full-Stack Architect* &nbsp;·&nbsp; **`ΑΓΑΜΕΜΝΩΝ`**
+**`DAYLIGHT`** &nbsp;·&nbsp; **`RANDERFAR0`** &nbsp;·&nbsp; *Full-Stack Architect*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=1000&height=50&lines=SIXTEEN+WINTERS+%C2%B7+U19+CHAMPION;FULL-STACK+ARCHITECT+%C2%B7+AI+ENGINEER;TWICE+CROWNED+UPON+THE+FIELD+OF+AIR;SCHOLAR+OF+HARVARD+%C2%B7+VERITAS;VENI+%C2%B7+VIDI+%C2%B7+VICI" alt="Full-Stack Architect and AI Engineer, twice crowned upon the field of Air"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&height=50&lines=SIXTEEN+WINTERS+%C2%B7+U19+CHAMPION;FULL-STACK+ARCHITECT+%C2%B7+AI+ENGINEER;TWICE+CROWNED+UPON+THE+FIELD+OF+AIR;SCHOLAR+OF+HARVARD+%C2%B7+VERITAS;CODE+%C2%B7+COMPETE+%C2%B7+CONQUER" alt="Full-Stack Architect and AI Engineer"/>
 
 <br><br>
 
@@ -31,14 +31,14 @@
 <!--                           BADGES                                           -->
 <!-- ========================================================================== -->
 
-<img src="https://img.shields.io/badge/ÆTAS-XVI-D4AF37?style=for-the-badge&labelColor=0D1117" alt=""/>
-<img src="https://img.shields.io/badge/AVRVM-III-C9A227?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/ÆTAS-XVI-00BFFF?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/AVRVM-III-00E5FF?style=for-the-badge&labelColor=0D1117" alt=""/>
 <img src="https://img.shields.io/badge/ARGENTVM-I-9CA3AF?style=for-the-badge&labelColor=0D1117" alt=""/>
-<img src="https://img.shields.io/badge/VERITAS-HARVARD_×3-8B1A1A?style=for-the-badge&labelColor=0D1117" alt=""/>
-<a href="https://github.com/arshia54"><img src="https://komarev.com/ghpvc/?username=arshia54&label=PILGRIMS&color=4A1D4E&style=for-the-badge" alt=""/></a>
+<img src="https://img.shields.io/badge/VERITAS-HARVARD_×3-00BFFF?style=for-the-badge&labelColor=0D1117" alt=""/>
+<a href="https://github.com/arshia54"><img src="https://komarev.com/ghpvc/?username=arshia54&label=PILGRIMS&color=00BFFF&style=for-the-badge" alt=""/></a>
 <img src="https://img.shields.io/badge/FULL_STACK-ARCHITECT-00FF88?style=for-the-badge&labelColor=0D1117" alt=""/>
-<img src="https://img.shields.io/badge/AI-ENGINEER-FF6B6B?style=for-the-badge&labelColor=0D1117" alt=""/>
-<img src="https://img.shields.io/badge/U19-CHAMPION-FFD700?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/AI-ENGINEER-00BFFF?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/U19-CHAMPION-00E5FF?style=for-the-badge&labelColor=0D1117" alt=""/>
 
 <br><br>
 
@@ -46,7 +46,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -54,11 +54,11 @@
 <!--                            ABOUT ME                                        -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">⚔ &nbsp; A &nbsp;B &nbsp;O &nbsp;U &nbsp;T &nbsp; ⚔</h2>
+<h2 style="font-size:40px; color:#00BFFF;">⚔ &nbsp; A &nbsp;B &nbsp;O &nbsp;U &nbsp;T &nbsp; ⚔</h2>
 
 <br><br>
 
-<pre style="font-family: 'Courier New', monospace; font-size: 15px; color: #D4AF37; background: #0D1117; border: 2px solid #D4AF37; border-radius: 20px; padding: 25px 40px; display: inline-block; text-align: left; line-height: 2.0; box-shadow: 0 0 60px rgba(212,175,55,0.08);">
+<pre style="font-family: 'Courier New', monospace; font-size: 15px; color: #00BFFF; background: #0D1117; border: 2px solid #00BFFF; border-radius: 20px; padding: 25px 40px; display: inline-block; text-align: left; line-height: 2.0; box-shadow: 0 0 60px rgba(0,191,255,0.08);">
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║        FULL-STACK ARCHITECT  ·  AI ENGINEER  ·  U19 CHAMPION  ·  HARVARD     ║
@@ -72,7 +72,6 @@
 ║        FRONT END   ·  React  |  Next.js  |  Vue.js  |  TailwindCSS           ║
 ║                                                                              ║
 ║        MOTTO   ·   CODE  ·  COMPETE  ·  CONQUER                              ║
-║                    VENI  ·  VIDI     ·  VICI                                 ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 </pre>
@@ -87,7 +86,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -95,13 +94,13 @@
 <!--                         ACHIEVEMENTS                                       -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">🏛 &nbsp; A &nbsp;C &nbsp;H &nbsp;I &nbsp;E &nbsp;V &nbsp;E &nbsp;M &nbsp;E &nbsp;N &nbsp;T &nbsp;S &nbsp; 🏛</h2>
+<h2 style="font-size:40px; color:#00BFFF;">🏛 &nbsp; A &nbsp;C &nbsp;H &nbsp;I &nbsp;E &nbsp;V &nbsp;E &nbsp;M &nbsp;E &nbsp;N &nbsp;T &nbsp;S &nbsp; 🏛</h2>
 
 <br><br>
 
 <table>
 <tr>
-<td align="center" width="25%" style="border: 2px solid #D4AF37; border-radius: 24px; background: rgba(212,175,55,0.06); padding: 25px; box-shadow: 0 0 40px rgba(212,175,55,0.06);">
+<td align="center" width="25%" style="border: 2px solid #00BFFF; border-radius: 24px; background: rgba(0,191,255,0.06); padding: 25px; box-shadow: 0 0 40px rgba(0,191,255,0.06);">
 
 ### 🥇
 
@@ -111,7 +110,7 @@
 
 **I · FIRST PLACE**
 
-<sub>MMXXIV · 🇹🇷 Turkey</sub>
+<sub>MMXXIV · Turkey</sub>
 
 </td>
 <td align="center" width="25%" style="border: 2px solid #9CA3AF; border-radius: 24px; background: rgba(156,163,175,0.06); padding: 25px; box-shadow: 0 0 40px rgba(156,163,175,0.06);">
@@ -124,10 +123,10 @@
 
 **III · THIRD PLACE**
 
-<sub>MMXXIV · 🇨🇦 Canada</sub>
+<sub>MMXXIV · Canada</sub>
 
 </td>
-<td align="center" width="25%" style="border: 2px solid #CD7F32; border-radius: 24px; background: rgba(205,127,50,0.06); padding: 25px; box-shadow: 0 0 40px rgba(205,127,50,0.06);">
+<td align="center" width="25%" style="border: 2px solid #00E5FF; border-radius: 24px; background: rgba(0,229,255,0.06); padding: 25px; box-shadow: 0 0 40px rgba(0,229,255,0.06);">
 
 ### 🏅
 
@@ -137,10 +136,10 @@
 
 **V · FIFTH PLACE**
 
-<sub>MMXXV · 🇮🇷 Iran</sub>
+<sub>MMXXV · Iran</sub>
 
 </td>
-<td align="center" width="25%" style="border: 2px solid #8B1A1A; border-radius: 24px; background: rgba(139,26,26,0.06); padding: 25px; box-shadow: 0 0 40px rgba(139,26,26,0.06);">
+<td align="center" width="25%" style="border: 2px solid #00BFFF; border-radius: 24px; background: rgba(0,191,255,0.06); padding: 25px; box-shadow: 0 0 40px rgba(0,191,255,0.06);">
 
 ### ⚔
 
@@ -150,7 +149,7 @@
 
 **THE QUEST AHEAD**
 
-<sub>In training · ⏳ TBA</sub>
+<sub>In training · TBA</sub>
 
 </td>
 </tr>
@@ -162,7 +161,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -170,7 +169,7 @@
 <!--                            EDUCATION                                       -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">📜 &nbsp; E &nbsp;D &nbsp;U &nbsp;C &nbsp;A &nbsp;T &nbsp;I &nbsp;O &nbsp;N &nbsp; 📜</h2>
+<h2 style="font-size:40px; color:#00BFFF;">📜 &nbsp; E &nbsp;D &nbsp;U &nbsp;C &nbsp;A &nbsp;T &nbsp;I &nbsp;O &nbsp;N &nbsp; 📜</h2>
 
 <br><br>
 
@@ -191,7 +190,7 @@
 <sub style="color:#9CA3AF;">Taught me what memory truly costs — why my firmware fits on a chip with kilobytes to spare.</sub>
 
 </td>
-<td align="center" width="33%" style="border: 2px solid #FF6B6B; border-radius: 24px; background: rgba(255,107,107,0.06); padding: 30px; box-shadow: 0 0 40px rgba(255,107,107,0.06);">
+<td align="center" width="33%" style="border: 2px solid #00BFFF; border-radius: 24px; background: rgba(0,191,255,0.06); padding: 30px; box-shadow: 0 0 40px rgba(0,191,255,0.06);">
 
 ### 🧠 CS50 AI
 
@@ -206,7 +205,7 @@
 <sub style="color:#9CA3AF;">Pathfinding under uncertainty is precisely the trial a rescue robot faces in an unmapped maze.</sub>
 
 </td>
-<td align="center" width="33%" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); padding: 30px; box-shadow: 0 0 40px rgba(255,215,0,0.06);">
+<td align="center" width="33%" style="border: 2px solid #00E5FF; border-radius: 24px; background: rgba(0,229,255,0.06); padding: 30px; box-shadow: 0 0 40px rgba(0,229,255,0.06);">
 
 ### 🐍 CS50P
 
@@ -230,7 +229,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -238,7 +237,7 @@
 <!--                           TECH STACK                                       -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">⚒ &nbsp; A &nbsp;R &nbsp;S &nbsp;E &nbsp;N &nbsp;A &nbsp;L &nbsp; ⚒</h2>
+<h2 style="font-size:40px; color:#00BFFF;">⚒ &nbsp; A &nbsp;R &nbsp;S &nbsp;E &nbsp;N &nbsp;A &nbsp;L &nbsp; ⚒</h2>
 
 <br><br>
 
@@ -275,7 +274,7 @@
 **🔧 &nbsp;WAR ENGINES — HARDWARE & ROBOTICS**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino, Raspberry Pi"/>
-<img src="https://img.shields.io/badge/Tello_Drone-0D1117?style=for-the-badge&logo=dji&logoColor=D4AF37" alt=""/>
+<img src="https://img.shields.io/badge/Tello_Drone-0D1117?style=for-the-badge&logo=dji&logoColor=00BFFF" alt=""/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" alt=""/>
 <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white&labelColor=0D1117" alt=""/>
 
@@ -291,7 +290,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -299,25 +298,25 @@
 <!--                         GITHUB STATS                                       -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">📊 GitHub Stats</h2>
+<h2 style="font-size:40px; color:#00BFFF;">📊 GitHub Stats</h2>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshia54&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=D4AF37&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia54&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&langs_count=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshia54&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00BFFF&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia54&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&langs_count=10" width="47%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia54&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=D4AF37&currStreakLabel=00FF88&sideLabels=FFFFFF&sideNums=D4AF37" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia54&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00BFFF&currStreakLabel=00FF88&sideLabels=FFFFFF&sideNums=00BFFF" width="70%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshia54&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=D4AF37&point=FF6B6B&area_color=00FF88&custom_title=Contribution%20Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshia54&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=00BFFF&point=FF6B6B&area_color=00FF88&custom_title=Contribution%20Graph" width="90%" />
 </p>
 
 <br><br>
@@ -326,7 +325,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -334,7 +333,7 @@
 <!--                        FEATURED PROJECTS                                   -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">🚀 Featured Projects</h2>
+<h2 style="font-size:40px; color:#00BFFF;">🚀 Featured Projects</h2>
 
 <br><br>
 
@@ -355,7 +354,7 @@
 <sub style="color:#9CA3AF;">Autonomous drone navigation through color-coded gates with real-time computer vision.</sub>
 
 </td>
-<td align="center" width="33%" style="border: 2px solid #D4AF37; border-radius: 24px; background: rgba(212,175,55,0.06); padding: 30px; box-shadow: 0 0 40px rgba(212,175,55,0.06);">
+<td align="center" width="33%" style="border: 2px solid #00BFFF; border-radius: 24px; background: rgba(0,191,255,0.06); padding: 30px; box-shadow: 0 0 40px rgba(0,191,255,0.06);">
 
 ### 🏡
 
@@ -402,7 +401,7 @@
 <sub style="color:#9CA3AF;">Intelligent chatbot with natural language understanding and context-aware responses.</sub>
 
 </td>
-<td align="center" width="33%" style="border: 2px solid #FFB347; border-radius: 24px; background: rgba(255,179,71,0.06); padding: 30px; box-shadow: 0 0 40px rgba(255,179,71,0.06);">
+<td align="center" width="33%" style="border: 2px solid #00E5FF; border-radius: 24px; background: rgba(0,229,255,0.06); padding: 30px; box-shadow: 0 0 40px rgba(0,229,255,0.06);">
 
 ### 📊
 
@@ -441,7 +440,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -449,24 +448,24 @@
 <!--                          DEV QUOTE                                         -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">💬 Dev Quote</h2>
+<h2 style="font-size:40px; color:#00BFFF;">💬 Dev Quote</h2>
 
 <br><br>
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 2px solid #D4AF37; border-radius: 28px; background: rgba(212,175,55,0.06); box-shadow: 0 0 60px rgba(212,175,55,0.08); padding: 40px 70px;">
+<td align="center" style="border: 2px solid #00BFFF; border-radius: 28px; background: rgba(0,191,255,0.06); box-shadow: 0 0 60px rgba(0,191,255,0.08); padding: 40px 70px;">
 
-<span style="font-size: 52px; color:#D4AF37;">❝</span>
+<span style="font-size: 52px; color:#00BFFF;">❝</span>
 <br>
 <samp style="font-size: 26px; color:#FFFFFF; font-style: italic; line-height: 2.2;">
 "Any fool can write code that a computer can understand.<br>
 Good programmers write code that humans can understand."
 </samp>
 <br><br>
-<samp style="font-size: 22px; color:#D4AF37;">— Martin Fowler</samp>
+<samp style="font-size: 22px; color:#00BFFF;">— Martin Fowler</samp>
 <br>
-<span style="font-size: 52px; color:#D4AF37;">❞</span>
+<span style="font-size: 52px; color:#00BFFF;">❞</span>
 
 </td>
 </tr>
@@ -478,7 +477,7 @@ Good programmers write code that humans can understand."
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -486,18 +485,16 @@ Good programmers write code that humans can understand."
 <!--                         CONNECT / SOCIAL                                   -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">📫 &nbsp; C &nbsp;O &nbsp;N &nbsp;T &nbsp;A &nbsp;C &nbsp;T &nbsp; 📫</h2>
+<h2 style="font-size:40px; color:#00BFFF;">📫 &nbsp; C &nbsp;O &nbsp;N &nbsp;T &nbsp;A &nbsp;C &nbsp;T &nbsp; 📫</h2>
 
 <br><br>
 
 <a href="mailto:arshiaaa2158@gmail.com"><img src="https://img.shields.io/badge/BY_RAVEN-8B1A1A?style=for-the-badge&logo=gmail&logoColor=F0E6D2&labelColor=0D1117" alt="Email"/></a>
 <a href="https://linkedin.com/in/arshia-ghotbinejad"><img src="https://img.shields.io/badge/THE_FORVM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F0E6D2&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="https://github.com/arshia54"><img src="https://img.shields.io/badge/THE_WORKSHOP-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://github.com/arshia54"><img src="https://img.shields.io/badge/THE_WORKSHOP-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0D1117" alt="GitHub"/></a>
 <a href="https://t.me/arshia2158"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram"/></a>
 <a href="https://instagram.com/arshia.gh__"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/></a>
 <a href="https://discord.gg/randerfar0"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/></a>
-<a href="https://twitter.com/arshia54"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X"/></a>
-<a href="https://www.youtube.com/@arshia54"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/></a>
 
 <br><br>
 
@@ -505,7 +502,7 @@ Good programmers write code that humans can understand."
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -513,13 +510,13 @@ Good programmers write code that humans can understand."
 <!--                           SUPPORT                                          -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">☕ Support</h2>
+<h2 style="font-size:40px; color:#00BFFF;">☕ Support</h2>
 
 <br><br>
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 2px solid #FFDD00; border-radius: 28px; background: rgba(255,221,0,0.06); box-shadow: 0 0 60px rgba(255,221,0,0.08); padding: 35px 60px;">
+<td align="center" style="border: 2px solid #00BFFF; border-radius: 28px; background: rgba(0,191,255,0.06); box-shadow: 0 0 60px rgba(0,191,255,0.08); padding: 35px 60px;">
 
 <samp style="font-size: 22px; color:#FFFFFF;">
 If you like my work, consider buying me a coffee! ☕
@@ -543,7 +540,7 @@ Your support means the world to me! 🙌
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -551,14 +548,14 @@ Your support means the world to me! 🙌
 <!--                         THE LABYRINTH                                      -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">🏺 &nbsp; T &nbsp;H &nbsp;E &nbsp; &nbsp;L &nbsp;A &nbsp;B &nbsp;Y &nbsp;R &nbsp;I &nbsp;N &nbsp;T &nbsp;H &nbsp; 🏺</h2>
+<h2 style="font-size:40px; color:#00BFFF;">🏺 &nbsp; T &nbsp;H &nbsp;E &nbsp; &nbsp;L &nbsp;A &nbsp;B &nbsp;Y &nbsp;R &nbsp;I &nbsp;N &nbsp;T &nbsp;H &nbsp; 🏺</h2>
 
 <br><br>
 
-<pre style="font-family: 'Courier New', monospace; font-size: 16px; color: #D4AF37; background: #0D1117; border: 2px solid #D4AF37; border-radius: 20px; padding: 25px 40px; display: inline-block; text-align: left; line-height: 2.0; box-shadow: 0 0 60px rgba(212,175,55,0.08);">
+<pre style="font-family: 'Courier New', monospace; font-size: 16px; color: #00BFFF; background: #0D1117; border: 2px solid #00BFFF; border-radius: 20px; padding: 25px 40px; display: inline-block; text-align: left; line-height: 2.0; box-shadow: 0 0 60px rgba(0,191,255,0.08);">
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║        ◈  CHART THE UNKNOWN  ·  ✦  FIND THE FALLEN  ·  ↺  RETURN BY THREAD  ║
+║        CHART THE UNKNOWN  ·  FIND THE FALLEN  ·  RETURN BY THREAD            ║
 ║                                                                              ║
 ║        Enter a maze no one has mapped. Chart it. Find the souls within.      ║
 ║        Return. No pilot. No map. No second attempt.                          ║
@@ -583,7 +580,7 @@ Your support means the world to me! 🙌
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -591,7 +588,7 @@ Your support means the world to me! 🙌
 <!--                         SKILLS & EXPERTISE                                 -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">🎯 &nbsp; S &nbsp;K &nbsp;I &nbsp;L &nbsp;L &nbsp;S &nbsp; 🎯</h2>
+<h2 style="font-size:40px; color:#00BFFF;">🎯 &nbsp; S &nbsp;K &nbsp;I &nbsp;L &nbsp;L &nbsp;S &nbsp; 🎯</h2>
 
 <br><br>
 
@@ -606,7 +603,7 @@ Your support means the world to me! 🙌
 <sub>`REST APIs` · `GraphQL` · `WebSockets` · `Microservices`</sub>
 
 </td>
-<td align="center" width="50%" style="border: 2px solid #FF6B6B; border-radius: 24px; background: rgba(255,107,107,0.06); padding: 25px; box-shadow: 0 0 40px rgba(255,107,107,0.06);">
+<td align="center" width="50%" style="border: 2px solid #00BFFF; border-radius: 24px; background: rgba(0,191,255,0.06); padding: 25px; box-shadow: 0 0 40px rgba(0,191,255,0.06);">
 
 ### 🤖 AI & ML
 
@@ -626,7 +623,7 @@ Your support means the world to me! 🙌
 <sub>`Database Design` · `Query Optimization` · `Caching`</sub>
 
 </td>
-<td align="center" width="50%" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); padding: 25px; box-shadow: 0 0 40px rgba(255,215,0,0.06);">
+<td align="center" width="50%" style="border: 2px solid #00E5FF; border-radius: 24px; background: rgba(0,229,255,0.06); padding: 25px; box-shadow: 0 0 40px rgba(0,229,255,0.06);">
 
 ### 🛡️ DEVOPS
 
@@ -644,29 +641,7 @@ Your support means the world to me! 🙌
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
-
-<br><br>
-
-<!-- ========================================================================== -->
-<!--                         CODING STATS                                       -->
-<!-- ========================================================================== -->
-
-<h2 style="font-size:40px; color:#D4AF37;">⌨️ Coding Stats</h2>
-
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arshia54&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF" width="60%" />
-</p>
-
-<br><br>
-
-<!-- ========================================================================== -->
-<!--                             DIVIDER                                        -->
-<!-- ========================================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -674,7 +649,7 @@ Your support means the world to me! 🙌
 <!--                         LIVE DEMO                                          -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">🌐 Live Demo</h2>
+<h2 style="font-size:40px; color:#00BFFF;">🌐 Live Demo</h2>
 
 <br><br>
 
@@ -684,7 +659,7 @@ Your support means the world to me! 🙌
   </samp>
   <br><br>
   <a href="https://arshia54.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" height="55" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" height="55" />
   </a>
   <a href="https://arshia54.pythonanywhere.com">
     <img src="https://img.shields.io/badge/DEMO_APP-00FF88?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117" height="55" />
@@ -697,7 +672,7 @@ Your support means the world to me! 🙌
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -705,7 +680,7 @@ Your support means the world to me! 🙌
 <!--                         THANK YOU                                          -->
 <!-- ========================================================================== -->
 
-<h2 style="font-size:40px; color:#D4AF37;">🙏 Thank You</h2>
+<h2 style="font-size:40px; color:#00BFFF;">🙏 Thank You</h2>
 
 <br><br>
 
@@ -725,7 +700,7 @@ Your support means the world to me! 🙌
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -733,7 +708,7 @@ Your support means the world to me! 🙌
 <!--                            FOOTER                                          -->
 <!-- ========================================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=22&duration=4400&pause=1200&color=D4AF37&center=true&vCenter=true&width=1000&height=55&lines=CODE+%C2%B7+COMPETE+%C2%B7+CONQUER;VENI+%C2%B7+VIDI+%C2%B7+VICI;FULL-STACK+ARCHITECT+%C2%B7+AI+ENGINEER;HARVARD+SCHOLAR+%C2%B7+U19+CHAMPION" alt="Code. Compete. Conquer. — Veni. Vidi. Vici."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4400&pause=1200&color=00BFFF&center=true&vCenter=true&width=1000&height=55&lines=CODE+%C2%B7+COMPETE+%C2%B7+CONQUER;FULL-STACK+ARCHITECT+%C2%B7+AI+ENGINEER;HARVARD+SCHOLAR+%C2%B7+U19+CHAMPION;DAYLIGHT+%C2%B7+RANDERFAR0" alt="Code. Compete. Conquer."/>
 
 <br><br>
 
@@ -747,6 +722,6 @@ Your support means the world to me! 🙌
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,35:8B1A1A,70:4A1D4E,100:0D1117&height=200&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,35:00E5FF,70:0A2A40,100:0D1117&height=200&section=footer" width="100%" alt=""/>
 
 </div>
