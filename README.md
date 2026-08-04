@@ -1,20 +1,29 @@
+<!--
+  ════════════════════════════════════════════════════════════════════════════════
+   ARSHIA GHOTBINEJAD · DAYLIGHT · RANDERFAR0
+   Full-Stack Architect · AI Engineer · U19 Champion · Harvard Scholar
+  ════════════════════════════════════════════════════════════════════════════════
+-->
+
+<div align="center">
+
 <!-- ========================================================================== -->
 <!--                              HEADER                                        -->
 <!-- ========================================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,10,15&height=280&section=header&text=ARSHIA&fontSize=72&fontColor=white&animation=fadeIn&fontAlignY=38&desc=DayLight%20%E2%80%A2%20Randerfar0%20%E2%80%A2%20Full-Stack%20Architect&descAlignY=58&descSize=22&fontFamily=Fira%20Code&stroke=00FF88&strokeWidth=2" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1A1A2E,65:16213E,100:D4AF37&height=320&section=header&text=&fontSize=1&animation=fadeIn" width="100%" alt=""/>
 
 <br><br>
 
-<!-- ========================================================================== -->
-<!--                        TYPING ANIMATION                                    -->
-<!-- ========================================================================== -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=56&duration=6000&pause=2500&color=D4AF37&center=true&vCenter=true&width=1100&height=90&lines=ARSHIA+GHOTBINEJAD" alt="Arshia Ghotbinejad"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Back-End+Architect;%F0%9F%A4%96+AI+%26+Computer+Vision+Specialist;%F0%9F%94%A5+Django+%7C+FastAPI+%7C+Flask;%F0%9F%8E%AF+OpenCV+%7C+TensorFlow+%7C+PyTorch;%E2%9A%A1+Code.+Compete.+Conquer." />
-</p>
+<br>
+
+**`DAYLIGHT`** &nbsp;·&nbsp; **`RANDERFAR0`** &nbsp;·&nbsp; *Full-Stack Architect* &nbsp;·&nbsp; **`ΑΓΑΜΕΜΝΩΝ`**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=1000&height=50&lines=SIXTEEN+WINTERS+%C2%B7+U19+CHAMPION;FULL-STACK+ARCHITECT+%C2%B7+AI+ENGINEER;TWICE+CROWNED+UPON+THE+FIELD+OF+AIR;SCHOLAR+OF+HARVARD+%C2%B7+VERITAS;VENI+%C2%B7+VIDI+%C2%B7+VICI" alt="Full-Stack Architect and AI Engineer, twice crowned upon the field of Air"/>
 
 <br><br>
 
@@ -22,16 +31,14 @@
 <!--                           BADGES                                           -->
 <!-- ========================================================================== -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PROFILE-LEVEL_W-FFD700?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/SINCE-2023-00FF88?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=00FF88" />
-  <img src="https://img.shields.io/badge/FOCUS-AI_%26_CV-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=tensorflow&logoColor=FF6B6B" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=arshia54&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/arshia54?style=for-the-badge&color=4FC3F7&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/arshia54?style=for-the-badge&color=FFD700&label=STARS" />
-  <img src="https://img.shields.io/github/watchers/arshia54/arshia54?style=for-the-badge&color=FF6B6B&label=WATCHERS" />
-</p>
+<img src="https://img.shields.io/badge/ÆTAS-XVI-D4AF37?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/AVRVM-III-C9A227?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/ARGENTVM-I-9CA3AF?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/VERITAS-HARVARD_×3-8B1A1A?style=for-the-badge&labelColor=0D1117" alt=""/>
+<a href="https://github.com/arshia54"><img src="https://komarev.com/ghpvc/?username=arshia54&label=PILGRIMS&color=4A1D4E&style=for-the-badge" alt=""/></a>
+<img src="https://img.shields.io/badge/FULL_STACK-ARCHITECT-00FF88?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/AI-ENGINEER-FF6B6B?style=for-the-badge&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/U19-CHAMPION-FFD700?style=for-the-badge&labelColor=0D1117" alt=""/>
 
 <br><br>
 
@@ -39,7 +46,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -47,47 +54,32 @@
 <!--                            ABOUT ME                                        -->
 <!-- ========================================================================== -->
 
-<h2 align="center" style="font-size:32px; color:#FFD700;">👨‍💻 About Me</h2>
+<h2 style="font-size:40px; color:#D4AF37;">⚔ &nbsp; A &nbsp;B &nbsp;O &nbsp;U &nbsp;T &nbsp; ⚔</h2>
 
 <br><br>
 
-<p align="center">
-  <table border="0" cellpadding="25" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: 2px solid #FFD700; border-radius: 28px; background: rgba(255,215,0,0.06); box-shadow: 0 0 50px rgba(255,215,0,0.08); padding: 35px 60px;">
-        <b style="font-size: 32px; color:#FFD700;">Hi, I'm Arshia Ghotbinejad</b>
-        <br><br>
-        <samp style="font-size: 22px; color:#00FF88;">🚀 Full-Stack & AI Developer</samp>
-        <br>
-        <samp style="font-size: 19px; color:#FFFFFF;">from <b style="color:#FF6B6B;">Iran 🇮🇷</b> &nbsp;|&nbsp; <b style="color:#4FC3F7;">16 years old</b></samp>
-        <br><br>
-        <samp style="font-size: 18px; color:#FFFFFF;">🎓 CS50x & CS50 AI student at <b style="color:#FFD700;">Harvard University</b></samp>
-        <br>
-        <samp style="font-size: 18px; color:#FFFFFF;">🏆 RoboCup competitor &nbsp;|&nbsp; 🚁 Drone & CV enthusiast</samp>
-        <br><br>
-        <samp style="font-size: 26px; color:#00FF88;">⚡ <i>"Code. Compete. Conquer."</i></samp>
-      </td>
-    </tr>
-  </table>
-</p>
+<pre style="font-family: 'Courier New', monospace; font-size: 15px; color: #D4AF37; background: #0D1117; border: 2px solid #D4AF37; border-radius: 20px; padding: 25px 40px; display: inline-block; text-align: left; line-height: 2.0; box-shadow: 0 0 60px rgba(212,175,55,0.08);">
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║        FULL-STACK ARCHITECT  ·  AI ENGINEER  ·  U19 CHAMPION  ·  HARVARD     ║
+║                                                                              ║
+║        LANGUAGES   ·  Python  |  C / C++  |  Java  |  JavaScript  |  SQL     ║
+║        FRAMEWORKS  ·  Django  |  FastAPI  |  Flask  |  Jinja  |  Spring      ║
+║        AI  /  CV   ·  OpenCV  |  TensorFlow  |  PyTorch  |  YOLO  |  NumPy   ║
+║        DATA VAULTS ·  PostgreSQL  |  MongoDB  |  Redis  |  MySQL  |  SQLite   ║
+║        LEGIONS     ·  Docker  |  Linux  |  Git  |  Nginx  |  Kubernetes      ║
+║        WAR ENGINES ·  Arduino  |  Tello Drone  |  Raspberry Pi  |  ESP32     ║
+║        FRONT END   ·  React  |  Next.js  |  Vue.js  |  TailwindCSS           ║
+║                                                                              ║
+║        MOTTO   ·   CODE  ·  COMPETE  ·  CONQUER                              ║
+║                    VENI  ·  VIDI     ·  VICI                                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+</pre>
 
 <br>
 
-<p align="center">
-  <table border="0" cellpadding="15" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: 1px solid #00FF88; border-radius: 20px; background: rgba(0,255,136,0.04); padding: 15px 30px;">
-        <samp style="font-size: 18px;">💬 <b>Ask me about:</b> <span style="color:#00FF88;">Django, FastAPI, OpenCV, YOLO</span></samp>
-      </td>
-      <td align="center" style="border: 1px solid #4FC3F7; border-radius: 20px; background: rgba(79,195,247,0.04); padding: 15px 30px;">
-        <samp style="font-size: 18px;">🌱 <b>Learning:</b> <span style="color:#4FC3F7;">System Design & Advanced CV</span></samp>
-      </td>
-      <td align="center" style="border: 1px solid #FFD700; border-radius: 20px; background: rgba(255,215,0,0.04); padding: 15px 30px;">
-        <samp style="font-size: 18px;">🎯 <b>2026 Goals:</b> <span style="color:#FFD700;">Open-source AI contributions</span></samp>
-      </td>
-    </tr>
-  </table>
-</p>
+<sub style="font-size:18px; color:#9CA3AF;">Sixteen years old. I build the full stack — from server logic and data pipelines to the firmware that makes real metal move — and I have carried it onto competition floors on two continents.</sub>
 
 <br><br>
 
@@ -95,123 +87,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
-
-<br><br>
-
-<!-- ========================================================================== -->
-<!--                         GITHUB STATS                                       -->
-<!-- ========================================================================== -->
-
-<h2 align="center" style="font-size:32px; color:#FFD700;">📊 GitHub Stats</h2>
-
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshia54&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFD700&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia54&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&langs_count=8" width="47%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia54&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FFD700&currStreakLabel=00FF88&sideLabels=FFFFFF&sideNums=FFD700" width="70%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshia54&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=FFD700&point=FF6B6B&area_color=00FF88&custom_title=Contribution%20Graph" width="90%" />
-</p>
-
-<br><br>
-
-<!-- ========================================================================== -->
-<!--                             DIVIDER                                        -->
-<!-- ========================================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
-
-<br><br>
-
-<!-- ========================================================================== -->
-<!--                           TECH STACK                                       -->
-<!-- ========================================================================== -->
-
-<h2 align="center" style="font-size:32px; color:#FFD700;">💻 Tech Stack</h2>
-
-<br><br>
-
-<h4 align="center" style="font-size:22px; color:#00FF88;">📝 Languages</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
-</p>
-
-<br>
-
-<h4 align="center" style="font-size:22px; color:#00FF88;">⚙️ Backend Frameworks</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117" />
-</p>
-
-<br>
-
-<h4 align="center" style="font-size:22px; color:#00FF88;">🤖 AI & Computer Vision</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
-</p>
-
-<br>
-
-<h4 align="center" style="font-size:22px; color:#00FF88;">🗄️ Databases</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
-</p>
-
-<br>
-
-<h4 align="center" style="font-size:22px; color:#00FF88;">🛠️ DevOps & Tools</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117" />
-</p>
-
-<br>
-
-<h4 align="center" style="font-size:22px; color:#00FF88;">🔧 Hardware & IoT</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/DJI_Tello-000000?style=for-the-badge&logo=dji&logoColor=white&labelColor=0D1117" />
-</p>
-
-<br><br>
-
-<!-- ========================================================================== -->
-<!--                             DIVIDER                                        -->
-<!-- ========================================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -219,34 +95,66 @@
 <!--                         ACHIEVEMENTS                                       -->
 <!-- ========================================================================== -->
 
-<h2 align="center" style="font-size:32px; color:#FFD700;">🏆 Achievements</h2>
+<h2 style="font-size:40px; color:#D4AF37;">🏛 &nbsp; A &nbsp;C &nbsp;H &nbsp;I &nbsp;E &nbsp;V &nbsp;E &nbsp;M &nbsp;E &nbsp;N &nbsp;T &nbsp;S &nbsp; 🏛</h2>
 
 <br><br>
 
-<p align="center">
-  <table border="0" cellpadding="20">
-    <tr>
-      <td align="center" width="280" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); box-shadow: 0 0 40px rgba(255,215,0,0.08);">
-        <span style="font-size: 56px;">🥇</span><br>
-        <b style="color:#FFD700; font-size: 24px;">EURASIA</b><br>
-        <samp style="color:#00FF88; font-size: 18px;">1st Place</samp><br>
-        <samp style="color:#888; font-size: 14px;">2024 · Turkey</samp>
-      </td>
-      <td align="center" width="280" style="border: 2px solid #C0C0C0; border-radius: 24px; background: rgba(192,192,192,0.06); box-shadow: 0 0 40px rgba(192,192,192,0.08);">
-        <span style="font-size: 56px;">🥉</span><br>
-        <b style="color:#C0C0C0; font-size: 24px;">CANADA</b><br>
-        <samp style="color:#00FF88; font-size: 18px;">3rd Place</samp><br>
-        <samp style="color:#888; font-size: 14px;">2024 · Canada</samp>
-      </td>
-      <td align="center" width="280" style="border: 2px solid #CD7F32; border-radius: 24px; background: rgba(205,127,50,0.06); box-shadow: 0 0 40px rgba(205,127,50,0.08);">
-        <span style="font-size: 56px;">🏅</span><br>
-        <b style="color:#CD7F32; font-size: 24px;">IRAN OPEN</b><br>
-        <samp style="color:#00FF88; font-size: 18px;">5th Place</samp><br>
-        <samp style="color:#888; font-size: 14px;">2025 · Iran</samp>
-      </td>
-    </tr>
-  </table>
-</p>
+<table>
+<tr>
+<td align="center" width="25%" style="border: 2px solid #D4AF37; border-radius: 24px; background: rgba(212,175,55,0.06); padding: 25px; box-shadow: 0 0 40px rgba(212,175,55,0.06);">
+
+### 🥇
+
+**EURASIA ROBOCUP**
+
+`AIR · U19`
+
+**I · FIRST PLACE**
+
+<sub>MMXXIV · 🇹🇷 Turkey</sub>
+
+</td>
+<td align="center" width="25%" style="border: 2px solid #9CA3AF; border-radius: 24px; background: rgba(156,163,175,0.06); padding: 25px; box-shadow: 0 0 40px rgba(156,163,175,0.06);">
+
+### 🥉
+
+**CANADA OPEN**
+
+`SMARTHOME · U19`
+
+**III · THIRD PLACE**
+
+<sub>MMXXIV · 🇨🇦 Canada</sub>
+
+</td>
+<td align="center" width="25%" style="border: 2px solid #CD7F32; border-radius: 24px; background: rgba(205,127,50,0.06); padding: 25px; box-shadow: 0 0 40px rgba(205,127,50,0.06);">
+
+### 🏅
+
+**IRAN OPEN**
+
+`AIR · U19`
+
+**V · FIFTH PLACE**
+
+<sub>MMXXV · 🇮🇷 Iran</sub>
+
+</td>
+<td align="center" width="25%" style="border: 2px solid #8B1A1A; border-radius: 24px; background: rgba(139,26,26,0.06); padding: 25px; box-shadow: 0 0 40px rgba(139,26,26,0.06);">
+
+### ⚔
+
+**THE LABYRINTH**
+
+`RESCUE MAZE · U19`
+
+**THE QUEST AHEAD**
+
+<sub>In training · ⏳ TBA</sub>
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
@@ -254,7 +162,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -262,27 +170,154 @@
 <!--                            EDUCATION                                       -->
 <!-- ========================================================================== -->
 
-<h2 align="center" style="font-size:32px; color:#FFD700;">🎓 Education</h2>
+<h2 style="font-size:40px; color:#D4AF37;">📜 &nbsp; E &nbsp;D &nbsp;U &nbsp;C &nbsp;A &nbsp;T &nbsp;I &nbsp;O &nbsp;N &nbsp; 📜</h2>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%" style="border: 2px solid #4FC3F7; border-radius: 24px; background: rgba(79,195,247,0.06); padding: 30px; box-shadow: 0 0 40px rgba(79,195,247,0.06);">
+
+### 🏛️ CS50x
+
+**HARVARD UNIVERSITY**
+
+*Introduction to Computer Science*
+
+<sub>`C` · `Memory` · `Algorithms`<br>`Data Structures` · `SQL` · `Flask`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Taught me what memory truly costs — why my firmware fits on a chip with kilobytes to spare.</sub>
+
+</td>
+<td align="center" width="33%" style="border: 2px solid #FF6B6B; border-radius: 24px; background: rgba(255,107,107,0.06); padding: 30px; box-shadow: 0 0 40px rgba(255,107,107,0.06);">
+
+### 🧠 CS50 AI
+
+**HARVARD UNIVERSITY**
+
+*Artificial Intelligence with Python*
+
+<sub>`Search` · `Knowledge` · `Uncertainty`<br>`Optimization` · `Neural Networks`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Pathfinding under uncertainty is precisely the trial a rescue robot faces in an unmapped maze.</sub>
+
+</td>
+<td align="center" width="33%" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); padding: 30px; box-shadow: 0 0 40px rgba(255,215,0,0.06);">
+
+### 🐍 CS50P
+
+**HARVARD UNIVERSITY**
+
+*Programming with Python*
+
+<sub>`OOP` · `Unit Tests` · `Regex`<br>`File I/O` · `Exceptions`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Testing changed how I build — flight code you cannot test is flight code you cannot trust.</sub>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                             DIVIDER                                        -->
+<!-- ========================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                           TECH STACK                                       -->
+<!-- ========================================================================== -->
+
+<h2 style="font-size:40px; color:#D4AF37;">⚒ &nbsp; A &nbsp;R &nbsp;S &nbsp;E &nbsp;N &nbsp;A &nbsp;L &nbsp; ⚒</h2>
+
+<br><br>
+
+**⚔ &nbsp;LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&theme=dark" alt="Python, C, C++, Java, JavaScript, HTML, CSS"/>
+
+<br><br>
+
+**🏛 &nbsp;FRAMEWORKS & SERVERS**
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,spring,nginx&theme=dark" alt="Django, FastAPI, Flask, Spring, Nginx"/>
+
+<br><br>
+
+**🧠 &nbsp;AI & COMPUTER VISION**
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark" alt="OpenCV, TensorFlow, PyTorch"/>
+
+<br><br>
+
+**🗝️ &nbsp;DATA VAULTS**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql&theme=dark" alt="PostgreSQL, MongoDB, Redis, SQLite, MySQL"/>
+
+<br><br>
+
+**🛡️ &nbsp;LEGIONS — DEVOPS & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vscode&theme=dark" alt="Docker, Kubernetes, Linux, Git, GitHub, VS Code"/>
+
+<br><br>
+
+**🔧 &nbsp;WAR ENGINES — HARDWARE & ROBOTICS**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino, Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Tello_Drone-0D1117?style=for-the-badge&logo=dji&logoColor=D4AF37" alt=""/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" alt=""/>
+<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white&labelColor=0D1117" alt=""/>
+
+<br><br>
+
+**🎨 &nbsp;FRONT END — DESIGN & UI**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" alt="React, Next.js, Vue.js, TailwindCSS"/>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                             DIVIDER                                        -->
+<!-- ========================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                         GITHUB STATS                                       -->
+<!-- ========================================================================== -->
+
+<h2 style="font-size:40px; color:#D4AF37;">📊 GitHub Stats</h2>
 
 <br><br>
 
 <p align="center">
-  <table border="0" cellpadding="22">
-    <tr>
-      <td align="center" width="340" style="border: 2px solid #4FC3F7; border-radius: 24px; background: rgba(79,195,247,0.06); box-shadow: 0 0 40px rgba(79,195,247,0.08);">
-        <span style="font-size: 60px;">🏛️</span><br>
-        <b style="color:#4FC3F7; font-size: 26px;">CS50x</b><br>
-        <samp style="color:#00FF88; font-size: 18px;">Harvard University</samp><br>
-        <samp style="color:#888; font-size: 15px;">Computer Science</samp>
-      </td>
-      <td align="center" width="340" style="border: 2px solid #FF6B6B; border-radius: 24px; background: rgba(255,107,107,0.06); box-shadow: 0 0 40px rgba(255,107,107,0.08);">
-        <span style="font-size: 60px;">🧠</span><br>
-        <b style="color:#FF6B6B; font-size: 26px;">CS50 AI</b><br>
-        <samp style="color:#00FF88; font-size: 18px;">Harvard University</samp><br>
-        <samp style="color:#888; font-size: 15px;">Artificial Intelligence</samp>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=arshia54&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=D4AF37&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia54&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&langs_count=10" width="47%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia54&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=D4AF37&currStreakLabel=00FF88&sideLabels=FFFFFF&sideNums=D4AF37" width="70%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshia54&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=D4AF37&point=FF6B6B&area_color=00FF88&custom_title=Contribution%20Graph" width="90%" />
 </p>
 
 <br><br>
@@ -291,7 +326,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -299,34 +334,106 @@
 <!--                        FEATURED PROJECTS                                   -->
 <!-- ========================================================================== -->
 
-<h2 align="center" style="font-size:32px; color:#FFD700;">🚀 Featured Projects</h2>
+<h2 style="font-size:40px; color:#D4AF37;">🚀 Featured Projects</h2>
 
 <br><br>
 
-<p align="center">
-  <table border="0" cellpadding="20">
-    <tr>
-      <td align="center" width="300" style="border: 2px solid #00FF88; border-radius: 24px; background: rgba(0,255,136,0.06); box-shadow: 0 0 40px rgba(0,255,136,0.08);">
-        <span style="font-size: 52px;">🚁</span><br>
-        <b style="color:#00FF88; font-size: 21px;">Tello Gate Mission</b><br>
-        <samp style="color:#888; font-size: 13px;">Python · OpenCV · DJI Tello</samp><br>
-        <samp style="color:#aaa; font-size: 13px;">Autonomous drone navigation through color-coded gates</samp>
-      </td>
-      <td align="center" width="300" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); box-shadow: 0 0 40px rgba(255,215,0,0.08);">
-        <span style="font-size: 52px;">🏡</span><br>
-        <b style="color:#FFD700; font-size: 21px;">Web Systems</b><br>
-        <samp style="color:#888; font-size: 13px;">Django · FastAPI · Java</samp><br>
-        <samp style="color:#aaa; font-size: 13px;">High-performance web applications & APIs</samp>
-      </td>
-      <td align="center" width="300" style="border: 2px solid #FF6B6B; border-radius: 24px; background: rgba(255,107,107,0.06); box-shadow: 0 0 40px rgba(255,107,107,0.08);">
-        <span style="font-size: 52px;">👁️</span><br>
-        <b style="color:#FF6B6B; font-size: 21px;">Vision System</b><br>
-        <samp style="color:#888; font-size: 13px;">YOLO · TensorFlow · OpenCV</samp><br>
-        <samp style="color:#aaa; font-size: 13px;">Real-time object detection & tracking</samp>
-      </td>
-    </tr>
-  </table>
-</p>
+<table>
+<tr>
+<td align="center" width="33%" style="border: 2px solid #00FF88; border-radius: 24px; background: rgba(0,255,136,0.06); padding: 30px; box-shadow: 0 0 40px rgba(0,255,136,0.06);">
+
+### 🚁
+
+**TELLO GATE MISSION**
+
+*Autonomous Drone Navigation*
+
+<sub>`Python` · `OpenCV` · `DJI Tello`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Autonomous drone navigation through color-coded gates with real-time computer vision.</sub>
+
+</td>
+<td align="center" width="33%" style="border: 2px solid #D4AF37; border-radius: 24px; background: rgba(212,175,55,0.06); padding: 30px; box-shadow: 0 0 40px rgba(212,175,55,0.06);">
+
+### 🏡
+
+**WEB SYSTEMS**
+
+*High-Performance Web Applications*
+
+<sub>`Django` · `FastAPI` · `Java`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Building seamless, high-performance web experiences with modern full-stack architectures.</sub>
+
+</td>
+<td align="center" width="33%" style="border: 2px solid #FF6B6B; border-radius: 24px; background: rgba(255,107,107,0.06); padding: 30px; box-shadow: 0 0 40px rgba(255,107,107,0.06);">
+
+### 👁️
+
+**VISION SYSTEM**
+
+*Real-Time Object Detection*
+
+<sub>`YOLO` · `TensorFlow` · `OpenCV`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Real-time object detection and tracking system for autonomous robotics applications.</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" style="border: 2px solid #4FC3F7; border-radius: 24px; background: rgba(79,195,247,0.06); padding: 30px; box-shadow: 0 0 40px rgba(79,195,247,0.06);">
+
+### 🤖
+
+**AI CHATBOT**
+
+*Natural Language Processing*
+
+<sub>`Python` · `PyTorch` · `NLP`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Intelligent chatbot with natural language understanding and context-aware responses.</sub>
+
+</td>
+<td align="center" width="33%" style="border: 2px solid #FFB347; border-radius: 24px; background: rgba(255,179,71,0.06); padding: 30px; box-shadow: 0 0 40px rgba(255,179,71,0.06);">
+
+### 📊
+
+**DATA DASHBOARD**
+
+*Interactive Data Visualization*
+
+<sub>`React` · `Django` · `PostgreSQL`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Interactive data visualization dashboard with real-time updates and analytics.</sub>
+
+</td>
+<td align="center" width="33%" style="border: 2px solid #A8E6CF; border-radius: 24px; background: rgba(168,230,207,0.06); padding: 30px; box-shadow: 0 0 40px rgba(168,230,207,0.06);">
+
+### 🔒
+
+**SECURE AUTH**
+
+*Advanced Authentication System*
+
+<sub>`Django` · `JWT` · `OAuth2`</sub>
+
+<br>
+
+<sub style="color:#9CA3AF;">Advanced authentication and authorization system with multi-factor authentication.</sub>
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
@@ -334,7 +441,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -342,28 +449,28 @@
 <!--                          DEV QUOTE                                         -->
 <!-- ========================================================================== -->
 
-<h2 align="center" style="font-size:32px; color:#FFD700;">💬 Dev Quote</h2>
+<h2 style="font-size:40px; color:#D4AF37;">💬 Dev Quote</h2>
 
 <br><br>
 
-<p align="center">
-  <table border="0" cellpadding="30" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: 2px solid #FFD700; border-radius: 28px; background: rgba(255,215,0,0.06); box-shadow: 0 0 50px rgba(255,215,0,0.10); padding: 35px 60px;">
-        <span style="font-size: 48px; color:#FFD700;">❝</span>
-        <br>
-        <samp style="font-size: 24px; color:#FFFFFF; font-style: italic; line-height: 2;">
-          "Any fool can write code that a computer can understand.<br>
-          Good programmers write code that humans can understand."
-        </samp>
-        <br><br>
-        <samp style="font-size: 20px; color:#FFD700;">— Martin Fowler</samp>
-        <br>
-        <span style="font-size: 48px; color:#FFD700;">❞</span>
-      </td>
-    </tr>
-  </table>
-</p>
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border: 2px solid #D4AF37; border-radius: 28px; background: rgba(212,175,55,0.06); box-shadow: 0 0 60px rgba(212,175,55,0.08); padding: 40px 70px;">
+
+<span style="font-size: 52px; color:#D4AF37;">❝</span>
+<br>
+<samp style="font-size: 26px; color:#FFFFFF; font-style: italic; line-height: 2.2;">
+"Any fool can write code that a computer can understand.<br>
+Good programmers write code that humans can understand."
+</samp>
+<br><br>
+<samp style="font-size: 22px; color:#D4AF37;">— Martin Fowler</samp>
+<br>
+<span style="font-size: 52px; color:#D4AF37;">❞</span>
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
@@ -371,7 +478,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -379,30 +486,18 @@
 <!--                         CONNECT / SOCIAL                                   -->
 <!-- ========================================================================== -->
 
-<h2 align="center" style="font-size:32px; color:#FFD700;">📬 Connect With Me</h2>
+<h2 style="font-size:40px; color:#D4AF37;">📫 &nbsp; C &nbsp;O &nbsp;N &nbsp;T &nbsp;A &nbsp;C &nbsp;T &nbsp; 📫</h2>
 
 <br><br>
 
-<p align="center">
-  <a href="https://github.com/arshia54">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="55" />
-  </a>
-  <a href="https://t.me/arshia2158">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="55" />
-  </a>
-  <a href="https://instagram.com/arshia.gh__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" height="55" />
-  </a>
-  <a href="https://discord.gg/randerfar0">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" height="55" />
-  </a>
-  <a href="mailto:arshiaaa2158@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="55" />
-  </a>
-  <a href="https://linkedin.com/in/arshia-ghotbinejad">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="55" />
-  </a>
-</p>
+<a href="mailto:arshiaaa2158@gmail.com"><img src="https://img.shields.io/badge/BY_RAVEN-8B1A1A?style=for-the-badge&logo=gmail&logoColor=F0E6D2&labelColor=0D1117" alt="Email"/></a>
+<a href="https://linkedin.com/in/arshia-ghotbinejad"><img src="https://img.shields.io/badge/THE_FORVM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F0E6D2&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://github.com/arshia54"><img src="https://img.shields.io/badge/THE_WORKSHOP-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://t.me/arshia2158"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram"/></a>
+<a href="https://instagram.com/arshia.gh__"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/></a>
+<a href="https://discord.gg/randerfar0"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/></a>
+<a href="https://twitter.com/arshia54"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X"/></a>
+<a href="https://www.youtube.com/@arshia54"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/></a>
 
 <br><br>
 
@@ -410,7 +505,7 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -418,28 +513,151 @@
 <!--                           SUPPORT                                          -->
 <!-- ========================================================================== -->
 
-<h2 align="center" style="font-size:32px; color:#FFD700;">☕ Support</h2>
+<h2 style="font-size:40px; color:#D4AF37;">☕ Support</h2>
+
+<br><br>
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border: 2px solid #FFDD00; border-radius: 28px; background: rgba(255,221,0,0.06); box-shadow: 0 0 60px rgba(255,221,0,0.08); padding: 35px 60px;">
+
+<samp style="font-size: 22px; color:#FFFFFF;">
+If you like my work, consider buying me a coffee! ☕
+</samp>
+<br><br>
+<a href="https://www.buymeacoffee.com/arshia54">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0D1117" height="60" />
+</a>
+<br><br>
+<samp style="font-size: 18px; color:#9CA3AF;">
+Your support means the world to me! 🙌
+</samp>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                             DIVIDER                                        -->
+<!-- ========================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                         THE LABYRINTH                                      -->
+<!-- ========================================================================== -->
+
+<h2 style="font-size:40px; color:#D4AF37;">🏺 &nbsp; T &nbsp;H &nbsp;E &nbsp; &nbsp;L &nbsp;A &nbsp;B &nbsp;Y &nbsp;R &nbsp;I &nbsp;N &nbsp;T &nbsp;H &nbsp; 🏺</h2>
+
+<br><br>
+
+<pre style="font-family: 'Courier New', monospace; font-size: 16px; color: #D4AF37; background: #0D1117; border: 2px solid #D4AF37; border-radius: 20px; padding: 25px 40px; display: inline-block; text-align: left; line-height: 2.0; box-shadow: 0 0 60px rgba(212,175,55,0.08);">
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║        ◈  CHART THE UNKNOWN  ·  ✦  FIND THE FALLEN  ·  ↺  RETURN BY THREAD  ║
+║                                                                              ║
+║        Enter a maze no one has mapped. Chart it. Find the souls within.      ║
+║        Return. No pilot. No map. No second attempt.                          ║
+║                                                                              ║
+║        I · CHART   →  Map a world with no prior knowledge of it              ║
+║        II · FIND   →  Detect the fallen under conditions that refuse to repeat║
+║        III · RETURN →  Retrace the thread of Ariadne                        ║
+║                                                                              ║
+║        Carried into the maze:                                                ║
+║        • Sensor fusion from two campaigns of Air                            ║
+║        • PID tuning from flight                                              ║
+║        • Search and uncertainty from CS50 AI                                ║
+║        • Memory-frugal C from CS50x                                         ║
+║        • Testing discipline from CS50P                                      ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+</pre>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                             DIVIDER                                        -->
+<!-- ========================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                         SKILLS & EXPERTISE                                 -->
+<!-- ========================================================================== -->
+
+<h2 style="font-size:40px; color:#D4AF37;">🎯 &nbsp; S &nbsp;K &nbsp;I &nbsp;L &nbsp;L &nbsp;S &nbsp; 🎯</h2>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="50%" style="border: 2px solid #00FF88; border-radius: 24px; background: rgba(0,255,136,0.06); padding: 25px; box-shadow: 0 0 40px rgba(0,255,136,0.06);">
+
+### 🚀 BACKEND
+
+<sub>`Django` · `FastAPI` · `Flask` · `Spring`</sub>
+<br>
+<sub>`REST APIs` · `GraphQL` · `WebSockets` · `Microservices`</sub>
+
+</td>
+<td align="center" width="50%" style="border: 2px solid #FF6B6B; border-radius: 24px; background: rgba(255,107,107,0.06); padding: 25px; box-shadow: 0 0 40px rgba(255,107,107,0.06);">
+
+### 🤖 AI & ML
+
+<sub>`TensorFlow` · `PyTorch` · `OpenCV` · `YOLO`</sub>
+<br>
+<sub>`Computer Vision` · `NLP` · `Reinforcement Learning` · `LLMs`</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" style="border: 2px solid #4FC3F7; border-radius: 24px; background: rgba(79,195,247,0.06); padding: 25px; box-shadow: 0 0 40px rgba(79,195,247,0.06);">
+
+### 🗄️ DATABASES
+
+<sub>`PostgreSQL` · `MongoDB` · `Redis` · `MySQL`</sub>
+<br>
+<sub>`Database Design` · `Query Optimization` · `Caching`</sub>
+
+</td>
+<td align="center" width="50%" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); padding: 25px; box-shadow: 0 0 40px rgba(255,215,0,0.06);">
+
+### 🛡️ DEVOPS
+
+<sub>`Docker` · `Kubernetes` · `Linux` · `Nginx`</sub>
+<br>
+<sub>`CI/CD` · `GitHub Actions` · `Cloud Deployment`</sub>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                             DIVIDER                                        -->
+<!-- ========================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                         CODING STATS                                       -->
+<!-- ========================================================================== -->
+
+<h2 style="font-size:40px; color:#D4AF37;">⌨️ Coding Stats</h2>
 
 <br><br>
 
 <p align="center">
-  <table border="0" cellpadding="25" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: 2px solid #FFDD00; border-radius: 28px; background: rgba(255,221,0,0.06); box-shadow: 0 0 50px rgba(255,221,0,0.10); padding: 30px 50px;">
-        <samp style="font-size: 20px; color:#FFFFFF;">
-          If you like my work, consider buying me a coffee! ☕
-        </samp>
-        <br><br>
-        <a href="https://www.buymeacoffee.com/arshia54">
-          <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0D1117" height="55" />
-        </a>
-        <br><br>
-        <samp style="font-size: 16px; color:#888;">
-          Your support means the world to me! 🙌
-        </samp>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arshia54&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF" width="60%" />
 </p>
 
 <br><br>
@@ -448,7 +666,66 @@
 <!--                             DIVIDER                                        -->
 <!-- ========================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=4&section=divider" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                         LIVE DEMO                                          -->
+<!-- ========================================================================== -->
+
+<h2 style="font-size:40px; color:#D4AF37;">🌐 Live Demo</h2>
+
+<br><br>
+
+<p align="center">
+  <samp style="font-size:20px; color:#FFFFFF;">
+    Check out my latest projects live!
+  </samp>
+  <br><br>
+  <a href="https://arshia54.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" height="55" />
+  </a>
+  <a href="https://arshia54.pythonanywhere.com">
+    <img src="https://img.shields.io/badge/DEMO_APP-00FF88?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117" height="55" />
+  </a>
+</p>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                             DIVIDER                                        -->
+<!-- ========================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                         THANK YOU                                          -->
+<!-- ========================================================================== -->
+
+<h2 style="font-size:40px; color:#D4AF37;">🙏 Thank You</h2>
+
+<br><br>
+
+<p align="center">
+  <samp style="font-size:22px; color:#FFFFFF;">
+    Thank you for visiting my profile! 🙌
+  </samp>
+  <br><br>
+  <samp style="font-size:18px; color:#9CA3AF;">
+    If you like my work, feel free to reach out or support me!
+  </samp>
+</p>
+
+<br><br>
+
+<!-- ========================================================================== -->
+<!--                             DIVIDER                                        -->
+<!-- ========================================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:D4AF37,100:0D1117&height=4" width="100%" alt=""/>
 
 <br><br>
 
@@ -456,16 +733,20 @@
 <!--                            FOOTER                                          -->
 <!-- ========================================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%92%9B;Star+%E2%AD%90+if+you+like+my+work!;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=22&duration=4400&pause=1200&color=D4AF37&center=true&vCenter=true&width=1000&height=55&lines=CODE+%C2%B7+COMPETE+%C2%B7+CONQUER;VENI+%C2%B7+VIDI+%C2%B7+VICI;FULL-STACK+ARCHITECT+%C2%B7+AI+ENGINEER;HARVARD+SCHOLAR+%C2%B7+U19+CHAMPION" alt="Code. Compete. Conquer. — Veni. Vidi. Vici."/>
 
-<br>
+<br><br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,10,15&height=160&section=footer&animation=fadeIn" width="100%"/>
-</p>
+⭐ **Star my repositories if you find them useful** ⭐
 
-<!-- ========================================================================== -->
-<!--                          END OF README                                     -->
-<!-- ========================================================================== -->
+<br><br>
+
+<sub style="font-size:16px; color:#9CA3AF;">
+  Made with ❤️ by Arshia Ghotbinejad · DayLight · Randerfar0
+</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,35:8B1A1A,70:4A1D4E,100:0D1117&height=200&section=footer" width="100%" alt=""/>
+
+</div>
