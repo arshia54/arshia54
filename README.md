@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,10,15,25&height=250&section=header&text=ARSHIA%20GHOTBINEJAD&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=35&desc=DayLight_%20|%20Randerfar0&descAlignY=58&descSize=20&fontFamily=monospace&stroke=00FF00&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,10,15,25&height=250&section=header&text=ARSHIA%20GHOTBINEJAD&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=35&desc=DayLight%20%7C%20Randerfar0%20%7C%20Full-Stack%20Fortress&descAlignY=58&descSize=20&fontFamily=monospace&stroke=00FF00&strokeWidth=1" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=600&color=00FF00&center=true&vCenter=true&width=950&lines=%F0%9F%9A%80+Back-End+Web+Developer;%F0%9F%A4%96+AI+%26+Computer+Vision+Engineer;%F0%9F%92%BB+Django+%7C+FastAPI+%7C+Flask;%F0%9F%94%A5+OpenCV+%7C+TensorFlow+%7C+PyTorch;%E2%9A%A1+Code.+Compete.+Conquer." />
   <br>
   <img src="https://img.shields.io/badge/%F0%9F%94%A5-PROFILE_LEVEL%3A_W-FFD700?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFD700" />
@@ -29,7 +29,7 @@
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 <p align="center">
   <samp>👋 Hi, I'm <b>Arshia Ghotbinejad</b> (DayLight / Randerfar0)</samp><br>
-  <samp>🚀 Back-End & AI Developer from <b>Iran 🇮🇷</b> | 16 years old</samp><br>
+  <samp>🚀 Full-Stack & AI Developer from <b>Iran 🇮🇷</b> | 16 years old</samp><br>
   <samp>🎓 CS50x & CS50 AI student at <b>Harvard University</b></samp><br>
   <samp>🏆 RoboCup competitor | 🚁 Drone & 👁️ Computer Vision enthusiast</samp><br>
   <samp>💡 <b>"Code. Compete. Conquer. ⚡"</b></samp>
@@ -161,6 +161,8 @@
   <a href="https://github.com/arshia54"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="45" /></a>
   <a href="https://t.me/arshia2158"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="45" /></a>
   <a href="https://instagram.com/arshia.gh__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" height="45" /></a>
+  <a href="https://discord.gg/randerfar0"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" height="45" /></a>
+  <a href="mailto:arshiaaa2158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="45" /></a>
 </p>
 <br>
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%92%9B;Star+%E2%AD%90+if+you+like+my+work!;See+you+in+the+code!+%F0%9F%9A%80" /></div>
