@@ -391,7 +391,7 @@
 
 *🌐 High-Performance Web Applications*
 
-<sub>`Django` · `FastAPI` · `Java`</sub>
+<sub>`Django` · `FastAPI` · `Flask`</sub>
 
 <br>
 
