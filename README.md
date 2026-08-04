@@ -162,7 +162,7 @@
 
 **EURASIA ROBOCUP**
 
-`⚡ Air · U19`
+`⚡ smarthome · U19`
 
 **✦ 1st Place ✦**
 
