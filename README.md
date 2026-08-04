@@ -88,6 +88,8 @@
 
 <!-- TECH STACK -->
 <h2 align="center">💻 TECH STACK</h2>
+<br>
+
 <h3 align="center" style="color:#00FF00;">📝 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
@@ -95,6 +97,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
 </p>
 
 <h3 align="center" style="color:#00FF00;">⚙️ Back-End Frameworks</h3>
@@ -109,6 +112,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
 </p>
 
@@ -127,6 +131,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/DJI_Tello-000000?style=for-the-badge&logo=dji&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" />
 </p>
 
 <br>
@@ -136,24 +141,9 @@
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 <table align="center" cellpadding="15">
   <tr>
-    <td align="center" width="280" style="border: 3px solid #FFD700; border-radius: 20px; background: rgba(255,215,0,0.05); box-shadow: 0 0 20px rgba(255,215,0,0.2);">
-      <span style="font-size: 50px;">🚁</span><br>
-      <b style="color:#FFD700; font-size: 20px;">Tello Gate Mission</b><br>
-      <samp style="color:#00FF00;">Python • OpenCV • DJI Tello</samp><br>
-      <samp style="color:#AAA; font-size: 12px;">Autonomous drone navigation<br>through color-coded gates</samp>
-    </td>
-    <td align="center" width="280" style="border: 3px solid #00FF00; border-radius: 20px; background: rgba(0,255,0,0.05); box-shadow: 0 0 20px rgba(0,255,0,0.2);">
-      <span style="font-size: 50px;">🏡</span><br>
-      <b style="color:#00FF00; font-size: 20px;">WebSite Systems</b><br>
-      <samp style="color:#FFD700;">Python • Java • Back-end</samp><br>
-      <samp style="color:#AAA; font-size: 12px;">Building seamless<br>high-performance web experiences</samp>
-    </td>
-    <td align="center" width="280" style="border: 3px solid #FF6B6B; border-radius: 20px; background: rgba(255,107,107,0.05); box-shadow: 0 0 20px rgba(255,107,107,0.2);">
-      <span style="font-size: 50px;">👁️</span><br>
-      <b style="color:#FF6B6B; font-size: 20px;">Vision System</b><br>
-      <samp style="color:#00FF00;">OpenCV • YOLO • TensorFlow</samp><br>
-      <samp style="color:#AAA; font-size: 12px;">Real-time object detection<br>& tracking system</samp>
-    </td>
+    <td align="center" width="280" style="border: 3px solid #FFD700; border-radius: 20px; background: rgba(255,215,0,0.05); box-shadow: 0 0 20px rgba(255,215,0,0.2);"><span style="font-size: 50px;">🚁</span><br><b style="color:#FFD700; font-size: 20px;">Tello Gate Mission</b><br><samp style="color:#00FF00;">Python • OpenCV • DJI Tello</samp><br><samp style="color:#AAA; font-size: 12px;">Autonomous drone navigation<br>through color-coded gates</samp></td>
+    <td align="center" width="280" style="border: 3px solid #00FF00; border-radius: 20px; background: rgba(0,255,0,0.05); box-shadow: 0 0 20px rgba(0,255,0,0.2);"><span style="font-size: 50px;">🏡</span><br><b style="color:#00FF00; font-size: 20px;">WebSite Systems</b><br><samp style="color:#FFD700;">Python • Java • Back-end</samp><br><samp style="color:#AAA; font-size: 12px;">Building seamless<br>high-performance web experiences</samp></td>
+    <td align="center" width="280" style="border: 3px solid #FF6B6B; border-radius: 20px; background: rgba(255,107,107,0.05); box-shadow: 0 0 20px rgba(255,107,107,0.2);"><span style="font-size: 50px;">👁️</span><br><b style="color:#FF6B6B; font-size: 20px;">Vision System</b><br><samp style="color:#00FF00;">OpenCV • YOLO • TensorFlow</samp><br><samp style="color:#AAA; font-size: 12px;">Real-time object detection<br>& tracking system</samp></td>
   </tr>
 </table>
 <br>
