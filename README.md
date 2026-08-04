@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,10,15&height=240&section=header&text=ARSHIA&fontSize=68&fontColor=white&animation=fadeIn&fontAlignY=38&desc=DayLight%20%E2%80%A2%20Randerfar0%20%E2%80%A2%20Full-Stack%20Architect&descAlignY=58&descSize=20&fontFamily=Fira%20Code" width="100%"/>
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                        TYPING ANIMATION                                 -->
@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=950&lines=%F0%9F%9A%80+Back-End+Architect;%F0%9F%A4%96+AI+%26+Computer+Vision+Specialist;%F0%9F%94%A5+Django+%7C+FastAPI+%7C+Flask;%F0%9F%8E%AF+OpenCV+%7C+TensorFlow+%7C+PyTorch;%E2%9A%A1+Code.+Compete.+Conquer." />
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           BADGES                                        -->
@@ -26,13 +26,13 @@
   <img src="https://img.shields.io/badge/PROFILE-LEVEL_W-FFD700?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/SINCE-2023-00FF88?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=00FF88" />
   <img src="https://img.shields.io/badge/FOCUS-AI_%26_CV-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=tensorflow&logoColor=FF6B6B" />
-  <br><br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=arshia54&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/arshia54?style=for-the-badge&color=4FC3F7&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/arshia54?style=for-the-badge&color=FFD700&label=STARS" />
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -40,7 +40,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                          ABOUT ME                                       -->
@@ -48,47 +48,41 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<br><br>
+<br>
 
 <p align="center">
-  <table border="0" cellpadding="20" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); padding: 30px 50px;">
-        <b style="font-size: 28px; color:#FFD700;">Hi, I'm Arshia Ghotbinejad</b>
-        <br><br>
-        <samp style="font-size: 20px; color:#00FF88;">🚀 Full-Stack & AI Developer</samp>
-        <br>
-        <samp style="font-size: 17px; color:#FFFFFF;">from <b style="color:#FF6B6B;">Iran 🇮🇷</b> &nbsp;|&nbsp; <b style="color:#4FC3F7;">16 years old</b></samp>
-        <br><br>
-        <samp style="font-size: 16px; color:#FFFFFF;">🎓 CS50x & CS50 AI student at <b style="color:#FFD700;">Harvard University</b></samp>
-        <br>
-        <samp style="font-size: 16px; color:#FFFFFF;">🏆 RoboCup competitor &nbsp;|&nbsp; 🚁 Drone & CV enthusiast</samp>
-        <br><br>
-        <samp style="font-size: 22px; color:#00FF88;">⚡ <i>"Code. Compete. Conquer."</i></samp>
-      </td>
-    </tr>
-  </table>
+  <b style="font-size:26px; color:#FFD700;">Hi, I'm Arshia Ghotbinejad</b>
 </p>
 
 <br>
 
 <p align="center">
-  <table border="0" cellpadding="12" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: 1px solid #00FF88; border-radius: 16px; background: rgba(0,255,136,0.04); padding: 12px 24px;">
-        <samp style="font-size: 16px;">💬 <b>Ask me about:</b> <span style="color:#00FF88;">Django, FastAPI, OpenCV, YOLO</span></samp>
-      </td>
-      <td align="center" style="border: 1px solid #4FC3F7; border-radius: 16px; background: rgba(79,195,247,0.04); padding: 12px 24px;">
-        <samp style="font-size: 16px;">🌱 <b>Learning:</b> <span style="color:#4FC3F7;">System Design & Advanced CV</span></samp>
-      </td>
-      <td align="center" style="border: 1px solid #FFD700; border-radius: 16px; background: rgba(255,215,0,0.04); padding: 12px 24px;">
-        <samp style="font-size: 16px;">🎯 <b>2026 Goals:</b> <span style="color:#FFD700;">Open-source AI contributions</span></samp>
-      </td>
-    </tr>
-  </table>
+  <samp style="font-size:19px;">🚀 Full-Stack & AI Developer from <b>Iran 🇮🇷</b> &nbsp;|&nbsp; <b>16 years old</b></samp>
 </p>
 
-<br><br>
+<p align="center">
+  <samp style="font-size:18px;">🎓 CS50x & CS50 AI student at <b>Harvard University</b></samp>
+</p>
+
+<p align="center">
+  <samp style="font-size:18px;">🏆 RoboCup competitor &nbsp;|&nbsp; 🚁 Drone & CV enthusiast</samp>
+</p>
+
+<p align="center">
+  <samp style="font-size:20px; color:#00FF88;">⚡ <i>"Code. Compete. Conquer."</i></samp>
+</p>
+
+<br>
+
+<p align="center">
+  <samp style="font-size:17px;">💬 Ask me about: <b style="color:#00FF88;">Django, FastAPI, OpenCV, YOLO</b></samp>
+  <br>
+  <samp style="font-size:17px;">🌱 Currently learning: <b style="color:#4FC3F7;">System Design & Advanced CV</b></samp>
+  <br>
+  <samp style="font-size:17px;">🎯 2026 Goals: <b style="color:#FFD700;">Open-source AI contributions</b></samp>
+</p>
+
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -96,7 +90,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                         GITHUB STATS                                    -->
@@ -104,7 +98,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arshia54&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFD700&icon_color=00FF88&text_color=FFFFFF&include_all_commits=true" width="47%" />
@@ -117,7 +111,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia54&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FFD700&currStreakLabel=00FF88&sideLabels=FFFFFF&sideNums=FFD700" width="70%" />
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -125,7 +119,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                          TECH STACK                                     -->
@@ -133,7 +127,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<br><br>
+<br>
 
 <h4 align="center" style="color:#00FF88;">📝 Languages</h4>
 <p align="center">
@@ -189,7 +183,7 @@
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" />
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -197,7 +191,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                         ACHIEVEMENTS                                    -->
@@ -205,26 +199,26 @@
 
 <h2 align="center">🏆 Achievements</h2>
 
-<br><br>
+<br>
 
 <p align="center">
   <table border="0" cellpadding="15">
     <tr>
-      <td align="center" width="280" style="border: 2px solid #FFD700; border-radius: 20px; background: rgba(255,215,0,0.06); box-shadow: 0 0 30px rgba(255,215,0,0.1);">
-        <span style="font-size: 52px;">🥇</span><br>
-        <b style="color:#FFD700; font-size: 22px;">EURASIA</b><br>
+      <td align="center" width="280" style="border: 2px solid #FFD700; border-radius: 20px; background: rgba(255,215,0,0.06); box-shadow: 0 0 30px rgba(255,215,0,0.08);">
+        <span style="font-size: 50px;">🥇</span><br>
+        <b style="color:#FFD700; font-size: 21px;">EURASIA</b><br>
         <samp style="color:#00FF88; font-size: 17px;">1st Place</samp><br>
         <samp style="color:#888; font-size: 13px;">2024 · Turkey</samp>
       </td>
-      <td align="center" width="280" style="border: 2px solid #C0C0C0; border-radius: 20px; background: rgba(192,192,192,0.06); box-shadow: 0 0 30px rgba(192,192,192,0.1);">
-        <span style="font-size: 52px;">🥉</span><br>
-        <b style="color:#C0C0C0; font-size: 22px;">CANADA</b><br>
+      <td align="center" width="280" style="border: 2px solid #C0C0C0; border-radius: 20px; background: rgba(192,192,192,0.06); box-shadow: 0 0 30px rgba(192,192,192,0.08);">
+        <span style="font-size: 50px;">🥉</span><br>
+        <b style="color:#C0C0C0; font-size: 21px;">CANADA</b><br>
         <samp style="color:#00FF88; font-size: 17px;">3rd Place</samp><br>
         <samp style="color:#888; font-size: 13px;">2024 · Canada</samp>
       </td>
-      <td align="center" width="280" style="border: 2px solid #CD7F32; border-radius: 20px; background: rgba(205,127,50,0.06); box-shadow: 0 0 30px rgba(205,127,50,0.1);">
-        <span style="font-size: 52px;">🏅</span><br>
-        <b style="color:#CD7F32; font-size: 22px;">IRAN OPEN</b><br>
+      <td align="center" width="280" style="border: 2px solid #CD7F32; border-radius: 20px; background: rgba(205,127,50,0.06); box-shadow: 0 0 30px rgba(205,127,50,0.08);">
+        <span style="font-size: 50px;">🏅</span><br>
+        <b style="color:#CD7F32; font-size: 21px;">IRAN OPEN</b><br>
         <samp style="color:#00FF88; font-size: 17px;">5th Place</samp><br>
         <samp style="color:#888; font-size: 13px;">2025 · Iran</samp>
       </td>
@@ -232,7 +226,7 @@
   </table>
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -240,7 +234,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                          EDUCATION                                      -->
@@ -248,20 +242,20 @@
 
 <h2 align="center">🎓 Education</h2>
 
-<br><br>
+<br>
 
 <p align="center">
   <table border="0" cellpadding="18">
     <tr>
-      <td align="center" width="320" style="border: 2px solid #4FC3F7; border-radius: 20px; background: rgba(79,195,247,0.06); box-shadow: 0 0 30px rgba(79,195,247,0.1);">
-        <span style="font-size: 56px;">🏛️</span><br>
-        <b style="color:#4FC3F7; font-size: 24px;">CS50x</b><br>
+      <td align="center" width="320" style="border: 2px solid #4FC3F7; border-radius: 20px; background: rgba(79,195,247,0.06); box-shadow: 0 0 30px rgba(79,195,247,0.08);">
+        <span style="font-size: 54px;">🏛️</span><br>
+        <b style="color:#4FC3F7; font-size: 23px;">CS50x</b><br>
         <samp style="color:#00FF88; font-size: 17px;">Harvard University</samp><br>
         <samp style="color:#888; font-size: 14px;">Computer Science</samp>
       </td>
-      <td align="center" width="320" style="border: 2px solid #FF6B6B; border-radius: 20px; background: rgba(255,107,107,0.06); box-shadow: 0 0 30px rgba(255,107,107,0.1);">
-        <span style="font-size: 56px;">🧠</span><br>
-        <b style="color:#FF6B6B; font-size: 24px;">CS50 AI</b><br>
+      <td align="center" width="320" style="border: 2px solid #FF6B6B; border-radius: 20px; background: rgba(255,107,107,0.06); box-shadow: 0 0 30px rgba(255,107,107,0.08);">
+        <span style="font-size: 54px;">🧠</span><br>
+        <b style="color:#FF6B6B; font-size: 23px;">CS50 AI</b><br>
         <samp style="color:#00FF88; font-size: 17px;">Harvard University</samp><br>
         <samp style="color:#888; font-size: 14px;">Artificial Intelligence</samp>
       </td>
@@ -269,7 +263,7 @@
   </table>
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -277,7 +271,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                        FEATURED PROJECTS                                -->
@@ -285,34 +279,34 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<br><br>
+<br>
 
 <p align="center">
   <table border="0" cellpadding="18">
     <tr>
       <td align="center" width="280" style="border: 2px solid #00FF88; border-radius: 20px; background: rgba(0,255,136,0.06); box-shadow: 0 0 30px rgba(0,255,136,0.08);">
-        <span style="font-size: 48px;">🚁</span><br>
+        <span style="font-size: 46px;">🚁</span><br>
         <b style="color:#00FF88; font-size: 19px;">Tello Gate Mission</b><br>
         <samp style="color:#888; font-size: 12px;">Python · OpenCV · DJI Tello</samp><br>
-        <samp style="color:#aaa; font-size: 12px;">Autonomous drone navigation through color-coded gates</samp>
+        <samp style="color:#aaa; font-size: 12px;">Autonomous drone navigation</samp>
       </td>
       <td align="center" width="280" style="border: 2px solid #FFD700; border-radius: 20px; background: rgba(255,215,0,0.06); box-shadow: 0 0 30px rgba(255,215,0,0.08);">
-        <span style="font-size: 48px;">🏡</span><br>
+        <span style="font-size: 46px;">🏡</span><br>
         <b style="color:#FFD700; font-size: 19px;">Web Systems</b><br>
         <samp style="color:#888; font-size: 12px;">Django · FastAPI · Java</samp><br>
-        <samp style="color:#aaa; font-size: 12px;">High-performance web applications & APIs</samp>
+        <samp style="color:#aaa; font-size: 12px;">High-performance web apps</samp>
       </td>
       <td align="center" width="280" style="border: 2px solid #FF6B6B; border-radius: 20px; background: rgba(255,107,107,0.06); box-shadow: 0 0 30px rgba(255,107,107,0.08);">
-        <span style="font-size: 48px;">👁️</span><br>
+        <span style="font-size: 46px;">👁️</span><br>
         <b style="color:#FF6B6B; font-size: 19px;">Vision System</b><br>
         <samp style="color:#888; font-size: 12px;">YOLO · TensorFlow · OpenCV</samp><br>
-        <samp style="color:#aaa; font-size: 12px;">Real-time object detection & tracking</samp>
+        <samp style="color:#aaa; font-size: 12px;">Real-time object detection</samp>
       </td>
     </tr>
   </table>
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -320,7 +314,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                          DEV QUOTE                                      -->
@@ -328,13 +322,13 @@
 
 <h2 align="center">💬 Dev Quote</h2>
 
-<br><br>
+<br>
 
 <p align="center">
-  <table border="0" cellpadding="25" style="border-collapse: collapse;">
+  <table border="0" cellpadding="25">
     <tr>
-      <td align="center" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); box-shadow: 0 0 40px rgba(255,215,0,0.12); padding: 30px 50px;">
-        <span style="font-size: 42px;">❝</span>
+      <td align="center" style="border: 2px solid #FFD700; border-radius: 24px; background: rgba(255,215,0,0.06); box-shadow: 0 0 40px rgba(255,215,0,0.10); padding: 30px 50px;">
+        <span style="font-size: 40px;">❝</span>
         <br>
         <samp style="font-size: 22px; color:#FFFFFF; font-style: italic; line-height: 1.8;">
           "Any fool can write code that a computer can understand.<br>
@@ -343,13 +337,13 @@
         <br><br>
         <samp style="font-size: 18px; color:#FFD700;">— Martin Fowler</samp>
         <br>
-        <span style="font-size: 42px;">❞</span>
+        <span style="font-size: 40px;">❞</span>
       </td>
     </tr>
   </table>
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -357,7 +351,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                         CONNECT / SOCIAL                                -->
@@ -365,27 +359,27 @@
 
 <h2 align="center">📬 Connect With Me</h2>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://github.com/arshia54">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="50" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="48" />
   </a>
   <a href="https://t.me/arshia2158">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="50" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="48" />
   </a>
   <a href="https://instagram.com/arshia.gh__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" height="50" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" height="48" />
   </a>
   <a href="https://discord.gg/randerfar0">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" height="50" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" height="48" />
   </a>
   <a href="mailto:arshiaaa2158@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="50" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="48" />
   </a>
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -393,7 +387,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           SUPPORT                                       -->
@@ -401,12 +395,12 @@
 
 <h2 align="center">☕ Support</h2>
 
-<br><br>
+<br>
 
 <p align="center">
-  <table border="0" cellpadding="20" style="border-collapse: collapse;">
+  <table border="0" cellpadding="20">
     <tr>
-      <td align="center" style="border: 2px solid #FFDD00; border-radius: 24px; background: rgba(255,221,0,0.06); box-shadow: 0 0 40px rgba(255,221,0,0.1); padding: 25px 45px;">
+      <td align="center" style="border: 2px solid #FFDD00; border-radius: 24px; background: rgba(255,221,0,0.06); box-shadow: 0 0 40px rgba(255,221,0,0.10); padding: 25px 45px;">
         <samp style="font-size: 18px; color:#FFFFFF;">
           If you like my work, consider buying me a coffee! ☕
         </samp>
@@ -423,7 +417,7 @@
   </table>
 </p>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                           DIVIDER                                       -->
@@ -431,7 +425,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,10&height=3&section=divider" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- ======================================================================= -->
 <!--                            FOOTER                                        -->
